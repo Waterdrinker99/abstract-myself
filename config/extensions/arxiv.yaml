@@ -16,4 +16,4 @@ boost_keywords:
   - TENG
 
 llm_score_threshold: 7
-max_papers_per_run: 300
+max_papers_per_run: 100
