@@ -37,6 +37,21 @@ llm:
   summarization_model: google/gemini-2.5-flash-lite-preview-09-2025
   base_url: "https://openrouter.ai/api/v1"
   api_key_env: OPENROUTER_API_KEY
+  prompts:
+    arxiv_score: |
+      Rate this arXiv paper's relevance to the following research topics:
+      tribology, kinetic friction, sliding friction, contact mechanics,
+      sliding electrification, triboelectric effect, contact electrification,
+      surface charging, droplet motion, wetting dynamics, TENG
+      (triboelectric nanogenerator), soft matter surface science,
+      and materials with functional surface properties.
+
+      Title: {title}
+      Abstract: {abstract}
+
+      Reply with ONLY a single integer 0-10. No explanation.
+      10 = directly about one or more of the above topics.
+      0 = completely unrelated.
 
 pages:
   base_url: ""
