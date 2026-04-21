@@ -1,0 +1,445 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&family=Noto+Serif+SC:wght@400;600;700&display=swap');
+
+/* ── Design tokens — light (Press) ──────────────────────────────── */
+:root {
+  /* Typography */
+  --font-display: "Fraunces", "Charter", Georgia, serif;
+  --font-body:    "Source Serif 4", "Charter", Georgia, serif;
+  --font-ui:      "Inter", -apple-system, sans-serif;
+  --font-mono:    "JetBrains Mono", ui-monospace, monospace;
+
+  /* Palette */
+  --bg:           #f4ede0;
+  --bg-deep:      #ebe2d1;
+  --paper:        #fffdf7;
+  --ink:          #1a1814;
+  --ink-soft:     #3d372f;
+  --ink-muted:    #7a7265;
+  --rule:         rgba(26, 24, 20, 0.14);
+  --rule-soft:    rgba(26, 24, 20, 0.08);
+  --accent:       #c43d2a;
+  --accent-deep:  #9d2d1e;
+  --accent-soft:  rgba(196, 61, 42, 0.10);
+  --gold:         #b8892a;
+  --gold-soft:    #f0e4c8;
+  --sage:         #5a7a5c;
+
+  --nav-height:   64px;
+  --max-w:        1360px;
+  --shadow:       0 2px 16px rgba(26, 24, 20, 0.10);
+
+  /* ── Backward-compat aliases for pre-redesign components ── */
+  --site-bg:           var(--bg);
+  --site-bg-accent:    var(--bg-deep);
+  --site-panel:        rgba(255, 253, 247, 0.88);
+  --site-panel-strong: var(--paper);
+  --site-text:         var(--ink);
+  --site-text-muted:   var(--ink-muted);
+  --site-border:       var(--rule);
+  --site-shadow:       var(--shadow);
+  --site-brand:        var(--accent);
+  --site-brand-soft:   var(--accent-soft);
+  --site-accent:       var(--gold);
+  --site-accent-soft:  var(--gold-soft);
+  --site-warm:         var(--gold);
+  --site-warm-soft:    var(--gold-soft);
+  --site-chip:         var(--gold-soft);
+  --site-chip-border:  rgba(184, 137, 42, 0.22);
+  --site-code-bg:      #1c1611;
+  --site-code-text:    #f0e7d4;
+  --bg-accent:         var(--bg-deep);
+  --panel:             var(--site-panel);
+  --panel-strong:      var(--paper);
+  --text:              var(--ink);
+  --muted:             var(--ink-muted);
+  --border:            var(--rule);
+  --brand:             var(--accent);
+  --brand-soft:        var(--accent-soft);
+  --warn:              var(--gold);
+  --warn-soft:         var(--gold-soft);
+  --success:           #1f7a4d;
+  --danger:            #a93d3d;
+  --chip:              var(--gold-soft);
+  --chip-border:       rgba(184, 137, 42, 0.22);
+  --chip-text:         #6b4c10;
+  --button-text:       #fffdf7;
+}
+
+/* ── Dark — Field Notes night ──────────────────────────────────── */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:           #1c1611;
+    --bg-deep:      #13100c;
+    --paper:        #241d16;
+    --ink:          #f0e7d4;
+    --ink-soft:     #d4c9b3;
+    --ink-muted:    #8f8676;
+    --rule:         rgba(240, 231, 212, 0.14);
+    --rule-soft:    rgba(240, 231, 212, 0.08);
+    --accent:       #ec6a50;
+    --accent-deep:  #c04d37;
+    --accent-soft:  rgba(236, 106, 80, 0.14);
+    --gold:         #d9b05c;
+    --gold-soft:    rgba(217, 176, 92, 0.14);
+    --sage:         #8aad8c;
+    --shadow:       0 2px 20px rgba(0, 0, 0, 0.30);
+
+    --site-bg:           var(--bg);
+    --site-bg-accent:    var(--bg-deep);
+    --site-panel:        rgba(28, 22, 17, 0.88);
+    --site-panel-strong: var(--paper);
+    --site-text:         var(--ink);
+    --site-text-muted:   var(--ink-muted);
+    --site-border:       var(--rule);
+    --site-shadow:       var(--shadow);
+    --site-brand:        var(--accent);
+    --site-brand-soft:   var(--accent-soft);
+    --site-accent:       var(--gold);
+    --site-accent-soft:  var(--gold-soft);
+    --site-warm:         var(--gold);
+    --site-warm-soft:    var(--gold-soft);
+    --site-chip:         rgba(217, 176, 92, 0.14);
+    --site-chip-border:  rgba(217, 176, 92, 0.22);
+    --site-code-bg:      #13100c;
+    --site-code-text:    #f0e7d4;
+    --bg-accent:         var(--bg-deep);
+    --panel:             var(--site-panel);
+    --panel-strong:      var(--paper);
+    --text:              var(--ink);
+    --muted:             var(--ink-muted);
+    --border:            var(--rule);
+    --brand:             var(--accent);
+    --brand-soft:        var(--accent-soft);
+    --warn:              var(--gold);
+    --warn-soft:         var(--gold-soft);
+    --success:           #6ee7a8;
+    --danger:            #ff8d8d;
+    --chip:              rgba(217, 176, 92, 0.14);
+    --chip-border:       rgba(217, 176, 92, 0.22);
+    --chip-text:         #d9b05c;
+    --button-text:       #1c1611;
+  }
+}
+
+[data-theme="dark"] {
+  --bg:           #1c1611;
+  --bg-deep:      #13100c;
+  --paper:        #241d16;
+  --ink:          #f0e7d4;
+  --ink-soft:     #d4c9b3;
+  --ink-muted:    #8f8676;
+  --rule:         rgba(240, 231, 212, 0.14);
+  --rule-soft:    rgba(240, 231, 212, 0.08);
+  --accent:       #ec6a50;
+  --accent-deep:  #c04d37;
+  --accent-soft:  rgba(236, 106, 80, 0.14);
+  --gold:         #d9b05c;
+  --gold-soft:    rgba(217, 176, 92, 0.14);
+  --sage:         #8aad8c;
+  --shadow:       0 2px 20px rgba(0, 0, 0, 0.30);
+
+  --site-bg:           var(--bg);
+  --site-bg-accent:    var(--bg-deep);
+  --site-panel:        rgba(28, 22, 17, 0.88);
+  --site-panel-strong: var(--paper);
+  --site-text:         var(--ink);
+  --site-text-muted:   var(--ink-muted);
+  --site-border:       var(--rule);
+  --site-shadow:       var(--shadow);
+  --site-brand:        var(--accent);
+  --site-brand-soft:   var(--accent-soft);
+  --site-accent:       var(--gold);
+  --site-accent-soft:  var(--gold-soft);
+  --site-warm:         var(--gold);
+  --site-warm-soft:    var(--gold-soft);
+  --site-chip:         rgba(217, 176, 92, 0.14);
+  --site-chip-border:  rgba(217, 176, 92, 0.22);
+  --site-code-bg:      #13100c;
+  --site-code-text:    #f0e7d4;
+  --bg-accent:         var(--bg-deep);
+  --panel:             var(--site-panel);
+  --panel-strong:      var(--paper);
+  --text:              var(--ink);
+  --muted:             var(--ink-muted);
+  --border:            var(--rule);
+  --brand:             var(--accent);
+  --brand-soft:        var(--accent-soft);
+  --warn:              var(--gold);
+  --warn-soft:         var(--gold-soft);
+  --success:           #6ee7a8;
+  --danger:            #ff8d8d;
+  --chip:              rgba(217, 176, 92, 0.14);
+  --chip-border:       rgba(217, 176, 92, 0.22);
+  --chip-text:         #d9b05c;
+  --button-text:       #1c1611;
+}
+
+[data-theme="light"] {
+  --bg:           #f4ede0;
+  --bg-deep:      #ebe2d1;
+  --paper:        #fffdf7;
+  --ink:          #1a1814;
+  --ink-soft:     #3d372f;
+  --ink-muted:    #7a7265;
+  --rule:         rgba(26, 24, 20, 0.14);
+  --rule-soft:    rgba(26, 24, 20, 0.08);
+  --accent:       #c43d2a;
+  --accent-deep:  #9d2d1e;
+  --accent-soft:  rgba(196, 61, 42, 0.10);
+  --gold:         #b8892a;
+  --gold-soft:    #f0e4c8;
+  --sage:         #5a7a5c;
+  --shadow:       0 2px 16px rgba(26, 24, 20, 0.10);
+
+  --site-bg:           var(--bg);
+  --site-bg-accent:    var(--bg-deep);
+  --site-panel:        rgba(255, 253, 247, 0.88);
+  --site-panel-strong: var(--paper);
+  --site-text:         var(--ink);
+  --site-text-muted:   var(--ink-muted);
+  --site-border:       var(--rule);
+  --site-shadow:       var(--shadow);
+  --site-brand:        var(--accent);
+  --site-brand-soft:   var(--accent-soft);
+  --site-accent:       var(--gold);
+  --site-accent-soft:  var(--gold-soft);
+  --site-warm:         var(--gold);
+  --site-warm-soft:    var(--gold-soft);
+  --site-chip:         var(--gold-soft);
+  --site-chip-border:  rgba(184, 137, 42, 0.22);
+  --site-code-bg:      #1c1611;
+  --site-code-text:    #f0e7d4;
+  --bg-accent:         var(--bg-deep);
+  --panel:             var(--site-panel);
+  --panel-strong:      var(--paper);
+  --text:              var(--ink);
+  --muted:             var(--ink-muted);
+  --border:            var(--rule);
+  --brand:             var(--accent);
+  --brand-soft:        var(--accent-soft);
+  --warn:              var(--gold);
+  --warn-soft:         var(--gold-soft);
+  --success:           #1f7a4d;
+  --danger:            #a93d3d;
+  --chip:              var(--gold-soft);
+  --chip-border:       rgba(184, 137, 42, 0.22);
+  --chip-text:         #6b4c10;
+  --button-text:       #fffdf7;
+}
+
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+
+body {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--ink);
+  background-color: var(--bg);
+  min-height: 100vh;
+}
+
+code, pre, kbd, .mono {
+  font-family: var(--font-mono);
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+/* ── Layout shell ──────────────────────────────────────────────── */
+.page-wrap {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+.page-wrap--wide {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+/* ── Panel / paper surface ─────────────────────────────────────── */
+.panel {
+  background: var(--site-panel);
+  border: 1px solid var(--rule);
+  backdrop-filter: blur(14px);
+}
+
+.panel--strong {
+  background: var(--paper);
+}
+
+/* ── Chip / tag ────────────────────────────────────────────────── */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  background: var(--accent-soft);
+  border: 1px solid rgba(196, 61, 42, 0.18);
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.chip--gold {
+  background: var(--gold-soft);
+  border-color: rgba(184, 137, 42, 0.22);
+  color: var(--gold);
+}
+
+/* ── Score badge ───────────────────────────────────────────────── */
+.score-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 34px;
+  height: 34px;
+  padding: 0 6px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.9rem;
+  background: var(--gold-soft);
+  border: 1px solid rgba(184, 137, 42, 0.22);
+  color: var(--gold);
+}
+
+/* ── Button ────────────────────────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--rule);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: opacity 0.15s;
+  color: var(--ink);
+  background: transparent;
+}
+
+.btn:hover { opacity: 0.7; }
+
+.btn--primary {
+  background: var(--accent);
+  color: var(--button-text) !important;
+  border-color: var(--accent);
+}
+
+.btn--secondary {
+  background: var(--accent-soft);
+  color: var(--accent) !important;
+  border-color: rgba(196, 61, 42, 0.22);
+}
+
+/* ── Section header ────────────────────────────────────────────── */
+.section-header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid var(--ink);
+  margin: 2.5rem 0 0;
+}
+
+.section-header h2 {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.section-icon {
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 0.9;
+  letter-spacing: -0.03em;
+}
+
+/* ── Feed grid ─────────────────────────────────────────────────── */
+.feed-grid {
+  display: grid;
+  gap: 0;
+}
+
+.feed-grid--2col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 40px;
+}
+
+.feed-grid--3col {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-top: 22px;
+}
+
+/* ── Kicker label ──────────────────────────────────────────────── */
+.kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.72rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+/* ── Divider ───────────────────────────────────────────────────── */
+hr.divider {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 1.25rem 0;
+}
+
+hr.divider--double {
+  border: none;
+  border-top: 3px double var(--ink);
+  margin: 0;
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .feed-grid--2col { grid-template-columns: 1fr; column-gap: 0; }
+  .feed-grid--3col { grid-template-columns: 1fr; }
+  .page-wrap, .page-wrap--wide { padding: 0 1.25rem; }
+}
+
+@media (max-width: 640px) {
+  body { font-size: 14px; }
+}
+
+/* ── CJK overrides — activated when <html lang="zh-*"> ────────────── */
+[lang^="zh"] {
+  --font-display: "Noto Serif SC", "Source Han Serif CN", "STSong", Georgia, serif;
+  --font-body:    "Noto Serif SC", "Source Han Serif CN", "STSong", Georgia, serif;
+  --font-ui:      "PingFang SC", "Noto Sans SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+}
+
+[lang^="zh"] body {
+  font-family: var(--font-body);
+  /* CJK needs slightly looser line-height than Latin serif */
+  line-height: 1.9;
+  overflow-wrap: break-word;
+}

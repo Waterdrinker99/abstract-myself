@@ -1,0 +1,54 @@
+name: Monthly Digest
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'   # 1st of month UTC midnight
+  workflow_dispatch:
+
+concurrency:
+  group: digest-push-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync latest branch
+        run: git pull --rebase origin ${{ github.ref_name }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monthly rollup
+        run: python main.py --mode monthly
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          API_NINJAS_KEY:     ${{ secrets.API_NINJAS_KEY }}
+          # ── Optional delivery sinks ──────────────────────────────────
+          SLACK_WEBHOOK_URL:    ${{ secrets.SLACK_WEBHOOK_URL }}
+          SERVERCHAN_SENDKEY:   ${{ secrets.SERVERCHAN_SENDKEY }}
+
+      - name: Commit and push monthly report
+        run: |
+          # Generated JSON stays ignored locally, so CI force-adds it when publishing.
+          git add docs/
+          git add -f docs/data/
+          git diff --staged --quiet || git commit -m "monthly: $(date -u +%Y-%m)"
+          git pull --rebase -X ours origin ${{ github.ref_name }}
+          git push
