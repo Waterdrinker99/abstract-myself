@@ -2,18 +2,15 @@ categories:
   - cond-mat.mtrl-sci
   - cond-mat.soft
   - physics.app-ph
+  - physics.flu-dyn
 
 must_include:
   - droplet motion
   - kinetic friction
-  - slide electrification
-  - sliding electrification
 
 boost_keywords:
   - surface charging
-  - triboelectric
-  - contact electrification
-  - TENG
 
-llm_score_threshold: 1
+
+llm_score_threshold: 5
 max_papers_per_run: 100
