@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T20:18:34.777020+00:00",
+  "generated_at": "2026-04-21T20:20:02.735309+00:00",
   "sections_ordered": [
     {
       "key": "github_trending",
@@ -16,17 +16,17 @@
           "total_stars": 11381,
           "language": "Python",
           "topics": [],
-          "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在为用户提供交互式探索和数据驱动的决策环境。"
+          "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
         },
         {
           "full_name": "thunderbird/thunderbolt",
           "url": "https://github.com/thunderbird/thunderbolt",
           "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "stars_today": 591,
-          "total_stars": 3387,
+          "total_stars": 3388,
           "language": "TypeScript",
           "topics": [],
-          "summary": "Thunderbolt 的核心功能是提供一个由用户掌控的 AI 平台，允许用户自由选择模型、拥有数据主权，并消除对特定供应商的依赖。"
+          "summary": "Thunderbolt 是一个旨在让用户完全掌控 AI 模型和数据、消除供应商锁定的人工智能平台。"
         },
         {
           "full_name": "zilliztech/claude-context",
@@ -36,7 +36,7 @@
           "total_stars": 6483,
           "language": "TypeScript",
           "topics": [],
-          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多功能控制平面（MCP），旨在将整个代码库作为任何编码代理的上下文。"
+          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
         },
         {
           "full_name": "ruvnet/RuView",
@@ -46,17 +46,17 @@
           "total_stars": 48810,
           "language": "Rust",
           "topics": [],
-          "summary": "RuView是一个基于商品级WiFi信号的密集姿态估计系统，能实时进行人体姿态估计、生命体征监测和存在检测，全程无需任何视频像素。"
+          "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，无需任何视频像素。"
         },
         {
           "full_name": "microsoft/ai-agents-for-beginners",
           "url": "https://github.com/microsoft/ai-agents-for-beginners",
           "description": "12 Lessons to Get Started Building AI Agents",
           "stars_today": 131,
-          "total_stars": 57537,
+          "total_stars": 57538,
           "language": "Jupyter Notebook",
           "topics": [],
-          "summary": "该GitHub仓库提供了一个包含12个课程的入门级教程，旨在帮助初学者快速上手构建人工智能（AI）智能体。"
+          "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建自己的AI智能体。"
         },
         {
           "full_name": "dayanch96/YTLite",
@@ -76,7 +76,7 @@
           "total_stars": 16755,
           "language": "Python",
           "topics": [],
-          "summary": "RAG-Anything 是一个**一体化检索增强生成（RAG）框架**，旨在提供**全面且易于使用的** RAG 解决方案。"
+          "summary": "RAG-Anything是一个全能的检索增强生成（RAG）框架，旨在提供一个集成的解决方案来简化和增强各种RAG应用的开发与部署。"
         },
         {
           "full_name": "sansan0/TrendRadar",
@@ -86,7 +86,7 @@
           "total_stars": 53549,
           "language": "Python",
           "topics": [],
-          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，提供关键词筛选、AI 翻译分析、智能简报推送，并支持多种通知渠道和 Docker 部署。"
+          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过关键词筛选、AI 翻译与分析，并支持多种渠道智能推送，帮助用户告别信息过载。"
         }
       ],
       "meta": {
@@ -140,17 +140,17 @@
       "total_stars": 11381,
       "language": "Python",
       "topics": [],
-      "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在为用户提供交互式探索和数据驱动的决策环境。"
+      "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
     },
     {
       "full_name": "thunderbird/thunderbolt",
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "stars_today": 591,
-      "total_stars": 3387,
+      "total_stars": 3388,
       "language": "TypeScript",
       "topics": [],
-      "summary": "Thunderbolt 的核心功能是提供一个由用户掌控的 AI 平台，允许用户自由选择模型、拥有数据主权，并消除对特定供应商的依赖。"
+      "summary": "Thunderbolt 是一个旨在让用户完全掌控 AI 模型和数据、消除供应商锁定的人工智能平台。"
     },
     {
       "full_name": "zilliztech/claude-context",
@@ -160,7 +160,7 @@
       "total_stars": 6483,
       "language": "TypeScript",
       "topics": [],
-      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多功能控制平面（MCP），旨在将整个代码库作为任何编码代理的上下文。"
+      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
     },
     {
       "full_name": "ruvnet/RuView",
@@ -170,17 +170,17 @@
       "total_stars": 48810,
       "language": "Rust",
       "topics": [],
-      "summary": "RuView是一个基于商品级WiFi信号的密集姿态估计系统，能实时进行人体姿态估计、生命体征监测和存在检测，全程无需任何视频像素。"
+      "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，无需任何视频像素。"
     },
     {
       "full_name": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "stars_today": 131,
-      "total_stars": 57537,
+      "total_stars": 57538,
       "language": "Jupyter Notebook",
       "topics": [],
-      "summary": "该GitHub仓库提供了一个包含12个课程的入门级教程，旨在帮助初学者快速上手构建人工智能（AI）智能体。"
+      "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建自己的AI智能体。"
     },
     {
       "full_name": "dayanch96/YTLite",
@@ -200,7 +200,7 @@
       "total_stars": 16755,
       "language": "Python",
       "topics": [],
-      "summary": "RAG-Anything 是一个**一体化检索增强生成（RAG）框架**，旨在提供**全面且易于使用的** RAG 解决方案。"
+      "summary": "RAG-Anything是一个全能的检索增强生成（RAG）框架，旨在提供一个集成的解决方案来简化和增强各种RAG应用的开发与部署。"
     },
     {
       "full_name": "sansan0/TrendRadar",
@@ -210,7 +210,7 @@
       "total_stars": 53549,
       "language": "Python",
       "topics": [],
-      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，提供关键词筛选、AI 翻译分析、智能简报推送，并支持多种通知渠道和 Docker 部署。"
+      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过关键词筛选、AI 翻译与分析，并支持多种渠道智能推送，帮助用户告别信息过载。"
     }
   ],
   "postdoc_jobs": [],
