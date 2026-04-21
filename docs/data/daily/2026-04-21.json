@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T20:09:05.288912+00:00",
+  "generated_at": "2026-04-21T20:20:02.735309+00:00",
   "sections_ordered": [
     {
       "key": "github_trending",
@@ -13,7 +13,7 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "stars_today": 2595,
-          "total_stars": 11372,
+          "total_stars": 11381,
           "language": "Python",
           "topics": [],
           "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
@@ -23,47 +23,47 @@
           "url": "https://github.com/thunderbird/thunderbolt",
           "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "stars_today": 591,
-          "total_stars": 3383,
+          "total_stars": 3388,
           "language": "TypeScript",
           "topics": [],
-          "summary": "Thunderbolt 的核心功能是提供一个**可控的 AI 平台**，允许用户**自主选择模型、掌握数据所有权**，并**消除对特定供应商的依赖**。"
+          "summary": "Thunderbolt 是一个旨在让用户完全掌控 AI 模型和数据、消除供应商锁定的人工智能平台。"
         },
         {
           "full_name": "zilliztech/claude-context",
           "url": "https://github.com/zilliztech/claude-context",
           "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
           "stars_today": 259,
-          "total_stars": 6480,
+          "total_stars": 6483,
           "language": "TypeScript",
           "topics": [],
-          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多功能控制平面（MCP），旨在将整个代码库作为任何编码代理的上下文。"
+          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
         },
         {
           "full_name": "ruvnet/RuView",
           "url": "https://github.com/ruvnet/RuView",
           "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "stars_today": 828,
-          "total_stars": 48809,
+          "total_stars": 48810,
           "language": "Rust",
           "topics": [],
-          "summary": "RuView是一个基于商品级WiFi信号的非接触式人体姿态估计、生命体征监测和存在检测系统，无需任何视频像素。"
+          "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，无需任何视频像素。"
         },
         {
           "full_name": "microsoft/ai-agents-for-beginners",
           "url": "https://github.com/microsoft/ai-agents-for-beginners",
           "description": "12 Lessons to Get Started Building AI Agents",
           "stars_today": 131,
-          "total_stars": 57531,
+          "total_stars": 57538,
           "language": "Jupyter Notebook",
           "topics": [],
-          "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建人工智能（AI）智能体。"
+          "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建自己的AI智能体。"
         },
         {
           "full_name": "dayanch96/YTLite",
           "url": "https://github.com/dayanch96/YTLite",
           "description": "A flexible enhancer for YouTube on iOS",
           "stars_today": 43,
-          "total_stars": 4783,
+          "total_stars": 4787,
           "language": "Logos",
           "topics": [],
           "summary": "YTLite 是一个灵活的 iOS 平台 YouTube 增强工具，旨在提升用户在 YouTube 上的体验。"
@@ -76,17 +76,17 @@
           "total_stars": 16755,
           "language": "Python",
           "topics": [],
-          "summary": "RAG-Anything 是一个集成化的开箱即用的检索增强生成（RAG）框架，旨在提供一个全面的解决方案来简化和加速 RAG 应用的开发与部署。"
+          "summary": "RAG-Anything是一个全能的检索增强生成（RAG）框架，旨在提供一个集成的解决方案来简化和增强各种RAG应用的开发与部署。"
         },
         {
           "full_name": "sansan0/TrendRadar",
           "url": "https://github.com/sansan0/TrendRadar",
           "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
           "stars_today": 584,
-          "total_stars": 53545,
+          "total_stars": 53549,
           "language": "Python",
           "topics": [],
-          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过关键词筛选、AI 翻译和分析生成简报，并支持多种渠道的智能推送，帮助用户告别信息过载。"
+          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过关键词筛选、AI 翻译与分析，并支持多种渠道智能推送，帮助用户告别信息过载。"
         }
       ],
       "meta": {
@@ -98,32 +98,12 @@
       "payload_key": "papers",
       "title": "arXiv Papers",
       "icon": "📄",
-      "items": [
-        {
-          "id": "2604.16974v1",
-          "title": "Directed droplet motion -- Its versatile nature and anticipated applications",
-          "authors": [
-            "Panagiotis E. Theodorakis",
-            "Andrey Milchev"
-          ],
-          "categories": [
-            "cond-mat.soft",
-            "physics.flu-dyn"
-          ],
-          "abstract": "该论文综述了定向液滴运动（如硬度梯度驱动的“硬度趋性”）的研究进展，强调了利用表面性质（如图案、润湿性梯度）沿特定方向的变化来实现流体传输是一种普适性概念。其核心贡献在于系统性地总结了这一现象及其在数字微流控和生物诊断等领域中的潜在应用前景。",
-          "url": "http://arxiv.org/abs/2604.16974v1",
-          "pdf_url": "https://arxiv.org/pdf/2604.16974v1",
-          "score": 1.0,
-          "primary_category": "cond-mat.soft",
-          "primary_category_anchor": "cond-mat-soft",
-          "primary_category_rank": 1
-        }
-      ],
+      "items": [],
       "meta": {
         "papers_fetched": 100,
         "papers_after_keyword_filter": 1,
-        "papers_after_llm_filter": 1,
-        "count": 1
+        "papers_after_llm_filter": 0,
+        "count": 0
       }
     },
     {
@@ -140,56 +120,16 @@
   "meta": {
     "papers_fetched": 100,
     "papers_after_keyword_filter": 1,
-    "papers_after_llm_filter": 1,
+    "papers_after_llm_filter": 0,
     "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
     "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
     "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
-    "duration_seconds": 11
+    "duration_seconds": 9
   },
   "quote_of_day": [],
   "hitokoto": [],
-  "arxiv": [
-    {
-      "id": "2604.16974v1",
-      "title": "Directed droplet motion -- Its versatile nature and anticipated applications",
-      "authors": [
-        "Panagiotis E. Theodorakis",
-        "Andrey Milchev"
-      ],
-      "categories": [
-        "cond-mat.soft",
-        "physics.flu-dyn"
-      ],
-      "abstract": "该论文综述了定向液滴运动（如硬度梯度驱动的“硬度趋性”）的研究进展，强调了利用表面性质（如图案、润湿性梯度）沿特定方向的变化来实现流体传输是一种普适性概念。其核心贡献在于系统性地总结了这一现象及其在数字微流控和生物诊断等领域中的潜在应用前景。",
-      "url": "http://arxiv.org/abs/2604.16974v1",
-      "pdf_url": "https://arxiv.org/pdf/2604.16974v1",
-      "score": 1.0,
-      "primary_category": "cond-mat.soft",
-      "primary_category_anchor": "cond-mat-soft",
-      "primary_category_rank": 1
-    }
-  ],
-  "papers": [
-    {
-      "id": "2604.16974v1",
-      "title": "Directed droplet motion -- Its versatile nature and anticipated applications",
-      "authors": [
-        "Panagiotis E. Theodorakis",
-        "Andrey Milchev"
-      ],
-      "categories": [
-        "cond-mat.soft",
-        "physics.flu-dyn"
-      ],
-      "abstract": "该论文综述了定向液滴运动（如硬度梯度驱动的“硬度趋性”）的研究进展，强调了利用表面性质（如图案、润湿性梯度）沿特定方向的变化来实现流体传输是一种普适性概念。其核心贡献在于系统性地总结了这一现象及其在数字微流控和生物诊断等领域中的潜在应用前景。",
-      "url": "http://arxiv.org/abs/2604.16974v1",
-      "pdf_url": "https://arxiv.org/pdf/2604.16974v1",
-      "score": 1.0,
-      "primary_category": "cond-mat.soft",
-      "primary_category_anchor": "cond-mat-soft",
-      "primary_category_rank": 1
-    }
-  ],
+  "arxiv": [],
+  "papers": [],
   "hacker_news": [],
   "github_trending": [
     {
@@ -197,7 +137,7 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "stars_today": 2595,
-      "total_stars": 11372,
+      "total_stars": 11381,
       "language": "Python",
       "topics": [],
       "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
@@ -207,47 +147,47 @@
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "stars_today": 591,
-      "total_stars": 3383,
+      "total_stars": 3388,
       "language": "TypeScript",
       "topics": [],
-      "summary": "Thunderbolt 的核心功能是提供一个**可控的 AI 平台**，允许用户**自主选择模型、掌握数据所有权**，并**消除对特定供应商的依赖**。"
+      "summary": "Thunderbolt 是一个旨在让用户完全掌控 AI 模型和数据、消除供应商锁定的人工智能平台。"
     },
     {
       "full_name": "zilliztech/claude-context",
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "stars_today": 259,
-      "total_stars": 6480,
+      "total_stars": 6483,
       "language": "TypeScript",
       "topics": [],
-      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多功能控制平面（MCP），旨在将整个代码库作为任何编码代理的上下文。"
+      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
     },
     {
       "full_name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "stars_today": 828,
-      "total_stars": 48809,
+      "total_stars": 48810,
       "language": "Rust",
       "topics": [],
-      "summary": "RuView是一个基于商品级WiFi信号的非接触式人体姿态估计、生命体征监测和存在检测系统，无需任何视频像素。"
+      "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，无需任何视频像素。"
     },
     {
       "full_name": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "stars_today": 131,
-      "total_stars": 57531,
+      "total_stars": 57538,
       "language": "Jupyter Notebook",
       "topics": [],
-      "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建人工智能（AI）智能体。"
+      "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建自己的AI智能体。"
     },
     {
       "full_name": "dayanch96/YTLite",
       "url": "https://github.com/dayanch96/YTLite",
       "description": "A flexible enhancer for YouTube on iOS",
       "stars_today": 43,
-      "total_stars": 4783,
+      "total_stars": 4787,
       "language": "Logos",
       "topics": [],
       "summary": "YTLite 是一个灵活的 iOS 平台 YouTube 增强工具，旨在提升用户在 YouTube 上的体验。"
@@ -260,17 +200,17 @@
       "total_stars": 16755,
       "language": "Python",
       "topics": [],
-      "summary": "RAG-Anything 是一个集成化的开箱即用的检索增强生成（RAG）框架，旨在提供一个全面的解决方案来简化和加速 RAG 应用的开发与部署。"
+      "summary": "RAG-Anything是一个全能的检索增强生成（RAG）框架，旨在提供一个集成的解决方案来简化和增强各种RAG应用的开发与部署。"
     },
     {
       "full_name": "sansan0/TrendRadar",
       "url": "https://github.com/sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "stars_today": 584,
-      "total_stars": 53545,
+      "total_stars": 53549,
       "language": "Python",
       "topics": [],
-      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过关键词筛选、AI 翻译和分析生成简报，并支持多种渠道的智能推送，帮助用户告别信息过载。"
+      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过关键词筛选、AI 翻译与分析，并支持多种渠道智能推送，帮助用户告别信息过载。"
     }
   ],
   "postdoc_jobs": [],
