@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T19:30:09.593497+00:00",
+  "generated_at": "2026-04-21T20:00:49.283619+00:00",
   "sections_ordered": [
     {
       "key": "github_trending",
@@ -13,7 +13,7 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "stars_today": 2595,
-          "total_stars": 11342,
+          "total_stars": 11366,
           "language": "Python",
           "topics": [],
           "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
@@ -23,47 +23,47 @@
           "url": "https://github.com/thunderbird/thunderbolt",
           "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "stars_today": 591,
-          "total_stars": 3368,
+          "total_stars": 3379,
           "language": "TypeScript",
           "topics": [],
-          "summary": "Thunderbolt 的核心功能是提供一个由用户完全控制的 AI 平台，允许用户自由选择模型并拥有其数据，从而消除对特定供应商的依赖。"
+          "summary": "Thunderbolt 是一个旨在让用户完全掌控 AI 模型选择、数据所有权并消除供应商锁定的开源项目。"
         },
         {
           "full_name": "zilliztech/claude-context",
           "url": "https://github.com/zilliztech/claude-context",
           "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
           "stars_today": 259,
-          "total_stars": 6462,
+          "total_stars": 6474,
           "language": "TypeScript",
           "topics": [],
-          "summary": "该仓库的核心功能是实现一个代码搜索MCP，旨在将整个代码库作为上下文提供给Claude代码智能体，以增强其代码理解和生成能力。"
+          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
         },
         {
           "full_name": "ruvnet/RuView",
           "url": "https://github.com/ruvnet/RuView",
           "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "stars_today": 828,
-          "total_stars": 48803,
+          "total_stars": 48808,
           "language": "Rust",
           "topics": [],
-          "summary": "RuView是一个基于商品级WiFi信号的非接触式人体姿态估计、生命体征监测和存在检测系统，无需任何视频像素。"
+          "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，完全无需任何视频像素。"
         },
         {
           "full_name": "microsoft/ai-agents-for-beginners",
           "url": "https://github.com/microsoft/ai-agents-for-beginners",
           "description": "12 Lessons to Get Started Building AI Agents",
           "stars_today": 131,
-          "total_stars": 57518,
+          "total_stars": 57525,
           "language": "Jupyter Notebook",
           "topics": [],
-          "summary": "该仓库提供12个课程，旨在帮助初学者入门构建人工智能（AI）智能体。"
+          "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建人工智能（AI）智能体。"
         },
         {
           "full_name": "dayanch96/YTLite",
           "url": "https://github.com/dayanch96/YTLite",
           "description": "A flexible enhancer for YouTube on iOS",
           "stars_today": 43,
-          "total_stars": 4776,
+          "total_stars": 4782,
           "language": "Logos",
           "topics": [],
           "summary": "YTLite 是一个灵活的 iOS 平台 YouTube 增强工具，旨在提升用户在 YouTube 上的体验。"
@@ -73,20 +73,20 @@
           "url": "https://github.com/HKUDS/RAG-Anything",
           "description": "\"RAG-Anything: All-in-One RAG Framework\"",
           "stars_today": 256,
-          "total_stars": 16741,
+          "total_stars": 16750,
           "language": "Python",
           "topics": [],
-          "summary": "RAG-Anything 是一个**全能型检索增强生成 (RAG) 框架**，旨在提供**一站式**的 RAG 解决方案。"
+          "summary": "RAG-Anything 是一个全能的检索增强生成（RAG）框架，旨在提供一站式的 RAG 解决方案。"
         },
         {
           "full_name": "sansan0/TrendRadar",
           "url": "https://github.com/sansan0/TrendRadar",
           "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
           "stars_today": 584,
-          "total_stars": 53539,
+          "total_stars": 53544,
           "language": "Python",
           "topics": [],
-          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过智能筛选、翻译和分析，将热点信息通过多种渠道（如微信、飞书等）推送，并支持 Docker 部署和高级 AI 分析功能。"
+          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 信息，通过关键词筛选、AI 翻译与分析，并支持多种渠道智能推送，帮助用户告别信息过载。"
         }
       ],
       "meta": {
@@ -100,8 +100,8 @@
       "icon": "📄",
       "items": [],
       "meta": {
-        "papers_fetched": 100,
-        "papers_after_keyword_filter": 0,
+        "papers_fetched": 300,
+        "papers_after_keyword_filter": 1,
         "papers_after_llm_filter": 0,
         "count": 0
       }
@@ -111,28 +111,20 @@
       "payload_key": "supervisor_updates",
       "title": "Supervisor Updates",
       "icon": "👨‍🏫",
-      "items": [
-        {
-          "name": "",
-          "institution": "",
-          "url": "https://wise.eng.ed.ac.uk/group-members",
-          "page_text": "Professor Glen McHale, Chair of Interfacial Science & Engineering and Director of Discipline\nI became Professor of Interfacial Science & Engineering and Director of Chemical Engineering in Edinburgh in 2020 after eight years at the University of Northumbria at Newcastle where I was first Executive Dean of the Faculty of Engineering & Environment and then Pro Vice-Chancellor (REF). Prior to that I spent twenty two years as as an academic at Nottingham Trent University where I was a Professor and Head of the Research & Graduate School (Science & Technology) in the College of Arts & Science and formerly Head of Physics & Mathematics. In my earlier career I held a Royal Society European Fellowship at the University of Paris VI (Pierre et Marie Curie) and both gained a PhD in Applied Mathematics and was awarded a BSc (Hons) First Class in Mathematical Physics by the University of Nottingham.\nMy research involves wetting, interfacial science and engineering and is undertaken as part of the Institute for Multiscale Thermofluids. It has attracted many funding awards including over twenty RCUK/EPSRC grants, mainly as Principal Investigator, and including both an EPSRC Platform Grant (awarded only to world-leading groups) and an EPSRC Centre for Doctoral Training. I have published over 180 refereed journal papers, which are cited ca. 1200 times annually (Google Scholar), and have been awarded seven patents. I am a Fellow of the Royal Society for Arts, Manufactures & Commerce (FRSA), a Fellow of the Higher Education Academic (FHEA), a Fellow of the Institute of Physics (F.Inst.P) and a Senior Member of the Institute of Electrical & Electronic Engineers (SMIEE). I am a member of the EPSRC Peer Review College and lead a UK Fluids Network Special Interest Group. I have previously been a Board Member of the Award Winning BIM Academy Enterprises Ltd, an Editorial Board member of Advances in Colloid & Interface Science, a UK Management Committee representative on COST Actions, and I was a member of sub-panel 13 for \"Electrical and Electronic Engineering, Metallurgy and Materials\" for the UK Research Excellence Framework (REF2014).\nDr Rodrigo Ledesma-Aguilar, Reader in Surfaces and Wetting\nDr Gary G Wells, Reader in Surfaces and Wetting\nHernán Barrio-Zhang, Research Associate in Chemical Engineering\nBorn in Mexico City from Spanish & Chinese migrant family, I am a Post-Doctoral Research Associate at the University of Edinburgh. I am a Physicist/Engineer with interest and specialist knowledge in wetting, capillarity and triple phase interactions, focusing on slippery surfaces. I have experience in both experimental and theoretical approaches. I am able to design and develop objective driven experiments and implement/develop methods to retrieve and analyze image data. I am familiar in the implementation of computational and numerical methods for physical problems involving the phase field model. I have extensive interdisciplinary experience in research and wish to a",
-          "change_summary": "该页面内容主要介绍导师的教育背景、职业经历和研究方向（润湿、界面科学与工程），并提及曾获得多项基金和建立博士生培训中心。**目前没有明确提及新的职位空缺信息、研究方向细节或申请截止日期。**"
-        }
-      ],
+      "items": [],
       "meta": {
-        "count": 1
+        "count": 0
       }
     }
   ],
   "meta": {
-    "papers_fetched": 100,
-    "papers_after_keyword_filter": 0,
+    "papers_fetched": 300,
+    "papers_after_keyword_filter": 1,
     "papers_after_llm_filter": 0,
     "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
     "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
     "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
-    "duration_seconds": 10
+    "duration_seconds": 30
   },
   "quote_of_day": [],
   "hitokoto": [],
@@ -145,7 +137,7 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "stars_today": 2595,
-      "total_stars": 11342,
+      "total_stars": 11366,
       "language": "Python",
       "topics": [],
       "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
@@ -155,47 +147,47 @@
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "stars_today": 591,
-      "total_stars": 3368,
+      "total_stars": 3379,
       "language": "TypeScript",
       "topics": [],
-      "summary": "Thunderbolt 的核心功能是提供一个由用户完全控制的 AI 平台，允许用户自由选择模型并拥有其数据，从而消除对特定供应商的依赖。"
+      "summary": "Thunderbolt 是一个旨在让用户完全掌控 AI 模型选择、数据所有权并消除供应商锁定的开源项目。"
     },
     {
       "full_name": "zilliztech/claude-context",
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "stars_today": 259,
-      "total_stars": 6462,
+      "total_stars": 6474,
       "language": "TypeScript",
       "topics": [],
-      "summary": "该仓库的核心功能是实现一个代码搜索MCP，旨在将整个代码库作为上下文提供给Claude代码智能体，以增强其代码理解和生成能力。"
+      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
     },
     {
       "full_name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "stars_today": 828,
-      "total_stars": 48803,
+      "total_stars": 48808,
       "language": "Rust",
       "topics": [],
-      "summary": "RuView是一个基于商品级WiFi信号的非接触式人体姿态估计、生命体征监测和存在检测系统，无需任何视频像素。"
+      "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，完全无需任何视频像素。"
     },
     {
       "full_name": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "stars_today": 131,
-      "total_stars": 57518,
+      "total_stars": 57525,
       "language": "Jupyter Notebook",
       "topics": [],
-      "summary": "该仓库提供12个课程，旨在帮助初学者入门构建人工智能（AI）智能体。"
+      "summary": "该仓库提供12个课程，旨在帮助初学者快速入门并开始构建人工智能（AI）智能体。"
     },
     {
       "full_name": "dayanch96/YTLite",
       "url": "https://github.com/dayanch96/YTLite",
       "description": "A flexible enhancer for YouTube on iOS",
       "stars_today": 43,
-      "total_stars": 4776,
+      "total_stars": 4782,
       "language": "Logos",
       "topics": [],
       "summary": "YTLite 是一个灵活的 iOS 平台 YouTube 增强工具，旨在提升用户在 YouTube 上的体验。"
@@ -205,32 +197,24 @@
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "stars_today": 256,
-      "total_stars": 16741,
+      "total_stars": 16750,
       "language": "Python",
       "topics": [],
-      "summary": "RAG-Anything 是一个**全能型检索增强生成 (RAG) 框架**，旨在提供**一站式**的 RAG 解决方案。"
+      "summary": "RAG-Anything 是一个全能的检索增强生成（RAG）框架，旨在提供一站式的 RAG 解决方案。"
     },
     {
       "full_name": "sansan0/TrendRadar",
       "url": "https://github.com/sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "stars_today": 584,
-      "total_stars": 53539,
+      "total_stars": 53544,
       "language": "Python",
       "topics": [],
-      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，通过智能筛选、翻译和分析，将热点信息通过多种渠道（如微信、飞书等）推送，并支持 Docker 部署和高级 AI 分析功能。"
+      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 信息，通过关键词筛选、AI 翻译与分析，并支持多种渠道智能推送，帮助用户告别信息过载。"
     }
   ],
   "postdoc_jobs": [],
   "jobs": [],
-  "supervisor_updates": [
-    {
-      "name": "",
-      "institution": "",
-      "url": "https://wise.eng.ed.ac.uk/group-members",
-      "page_text": "Professor Glen McHale, Chair of Interfacial Science & Engineering and Director of Discipline\nI became Professor of Interfacial Science & Engineering and Director of Chemical Engineering in Edinburgh in 2020 after eight years at the University of Northumbria at Newcastle where I was first Executive Dean of the Faculty of Engineering & Environment and then Pro Vice-Chancellor (REF). Prior to that I spent twenty two years as as an academic at Nottingham Trent University where I was a Professor and Head of the Research & Graduate School (Science & Technology) in the College of Arts & Science and formerly Head of Physics & Mathematics. In my earlier career I held a Royal Society European Fellowship at the University of Paris VI (Pierre et Marie Curie) and both gained a PhD in Applied Mathematics and was awarded a BSc (Hons) First Class in Mathematical Physics by the University of Nottingham.\nMy research involves wetting, interfacial science and engineering and is undertaken as part of the Institute for Multiscale Thermofluids. It has attracted many funding awards including over twenty RCUK/EPSRC grants, mainly as Principal Investigator, and including both an EPSRC Platform Grant (awarded only to world-leading groups) and an EPSRC Centre for Doctoral Training. I have published over 180 refereed journal papers, which are cited ca. 1200 times annually (Google Scholar), and have been awarded seven patents. I am a Fellow of the Royal Society for Arts, Manufactures & Commerce (FRSA), a Fellow of the Higher Education Academic (FHEA), a Fellow of the Institute of Physics (F.Inst.P) and a Senior Member of the Institute of Electrical & Electronic Engineers (SMIEE). I am a member of the EPSRC Peer Review College and lead a UK Fluids Network Special Interest Group. I have previously been a Board Member of the Award Winning BIM Academy Enterprises Ltd, an Editorial Board member of Advances in Colloid & Interface Science, a UK Management Committee representative on COST Actions, and I was a member of sub-panel 13 for \"Electrical and Electronic Engineering, Metallurgy and Materials\" for the UK Research Excellence Framework (REF2014).\nDr Rodrigo Ledesma-Aguilar, Reader in Surfaces and Wetting\nDr Gary G Wells, Reader in Surfaces and Wetting\nHernán Barrio-Zhang, Research Associate in Chemical Engineering\nBorn in Mexico City from Spanish & Chinese migrant family, I am a Post-Doctoral Research Associate at the University of Edinburgh. I am a Physicist/Engineer with interest and specialist knowledge in wetting, capillarity and triple phase interactions, focusing on slippery surfaces. I have experience in both experimental and theoretical approaches. I am able to design and develop objective driven experiments and implement/develop methods to retrieve and analyze image data. I am familiar in the implementation of computational and numerical methods for physical problems involving the phase field model. I have extensive interdisciplinary experience in research and wish to a",
-      "change_summary": "该页面内容主要介绍导师的教育背景、职业经历和研究方向（润湿、界面科学与工程），并提及曾获得多项基金和建立博士生培训中心。**目前没有明确提及新的职位空缺信息、研究方向细节或申请截止日期。**"
-    }
-  ],
+  "supervisor_updates": [],
   "weather": []
 }
