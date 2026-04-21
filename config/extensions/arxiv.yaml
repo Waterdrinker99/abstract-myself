@@ -15,5 +15,5 @@ boost_keywords:
   - contact electrification
   - TENG
 
-llm_score_threshold: 7
+llm_score_threshold: 1
 max_papers_per_run: 100
