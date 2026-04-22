@@ -1,0 +1,295 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T02:24:38.008587+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "stars_today": 2548,
+          "total_stars": 11725,
+          "language": "Python",
+          "topics": [],
+          "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
+        },
+        {
+          "full_name": "thunderbird/thunderbolt",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "stars_today": 596,
+          "total_stars": 3507,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Thunderbolt 的核心功能是提供一个由用户控制的 AI 平台，允许用户选择模型、拥有数据，并消除对特定供应商的依赖。"
+        },
+        {
+          "full_name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "stars_today": 169,
+          "total_stars": 6673,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "stars_today": 824,
+          "total_stars": 48931,
+          "language": "Rust",
+          "topics": [],
+          "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，其核心功能是实现“无像素”的穿墙感知。"
+        },
+        {
+          "full_name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "stars_today": 200,
+          "total_stars": 57809,
+          "language": "Jupyter Notebook",
+          "topics": [],
+          "summary": "该仓库提供**12个课程**，旨在帮助初学者**快速入门并开始构建AI智能体**。"
+        },
+        {
+          "full_name": "dayanch96/YTLite",
+          "url": "https://github.com/dayanch96/YTLite",
+          "description": "A flexible enhancer for YouTube on iOS",
+          "stars_today": 55,
+          "total_stars": 4851,
+          "language": "Logos",
+          "topics": [],
+          "summary": "YTLite 是一个灵活的 iOS 平台 YouTube 增强工具，旨在提升用户在 YouTube 上的体验。"
+        },
+        {
+          "full_name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "stars_today": 162,
+          "total_stars": 16959,
+          "language": "Python",
+          "topics": [],
+          "summary": "RAG-Anything 是一个一体化的检索增强生成（RAG）框架，旨在提供一个全面且易于使用的解决方案来构建和部署各种 RAG 应用。"
+        },
+        {
+          "full_name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "stars_today": 534,
+          "total_stars": 53737,
+          "language": "Python",
+          "topics": [],
+          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，提供关键词筛选、AI 翻译分析、智能简报推送，并支持多种通知渠道和 Docker 部署。"
+        },
+        {
+          "full_name": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+          "stars_today": 139,
+          "total_stars": 16809,
+          "language": "",
+          "topics": [],
+          "summary": "该仓库精选了来自官方和社区的 1000 多个智能体技能，兼容 Claude Code、Codex、Gemini CLI 和 Cursor 等平台。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 13
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47844269,
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "score": 475,
+      "created_at": "2026-04-21T03:43:03Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47844269",
+      "summary": "Anthropic 现已允许再次使用类似 OpenClaw 风格的 Claude 命令行界面（CLI）工具。"
+    },
+    {
+      "id": 47851948,
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "score": 348,
+      "created_at": "2026-04-21T17:40:39Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47851948",
+      "summary": "Meta 计划从 2026 年开始收集员工的鼠标移动和键盘输入数据，用于人工智能模型的训练。"
+    },
+    {
+      "id": 47844431,
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "score": 278,
+      "created_at": "2026-04-21T04:12:12Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47844431",
+      "summary": "一个 Roblox 作弊工具和一个 AI 工具的组合导致了 Vercel 平台的宕机。"
+    },
+    {
+      "id": 47851634,
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "score": 265,
+      "created_at": "2026-04-21T17:14:35Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47851634",
+      "summary": "Vercel 平台遭遇 OAuth 攻击，暴露了其在平台环境变量管理中存在的供应链安全风险。"
+    },
+    {
+      "id": 47849097,
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "score": 163,
+      "created_at": "2026-04-21T14:11:53Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47849097",
+      "summary": "GoModel 是一个用 Go 语言编写的开源 AI 网关，旨在提供一个统一的接口来管理和调用不同的 AI 模型服务。"
+    },
+    {
+      "id": 47845429,
+      "title": "Less human AI agents, please",
+      "url": "https://nial.se/blog/less-human-ai-agents-please/",
+      "score": 132,
+      "created_at": "2026-04-21T06:58:08Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47845429",
+      "summary": "作者呼吁AI代理应减少模仿人类的倾向，转而专注于提高效率和实用性。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "stars_today": 2548,
+      "total_stars": 11725,
+      "language": "Python",
+      "topics": [],
+      "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
+    },
+    {
+      "full_name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "stars_today": 596,
+      "total_stars": 3507,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Thunderbolt 的核心功能是提供一个由用户控制的 AI 平台，允许用户选择模型、拥有数据，并消除对特定供应商的依赖。"
+    },
+    {
+      "full_name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars_today": 169,
+      "total_stars": 6673,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 824,
+      "total_stars": 48931,
+      "language": "Rust",
+      "topics": [],
+      "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，其核心功能是实现“无像素”的穿墙感知。"
+    },
+    {
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars_today": 200,
+      "total_stars": 57809,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": "该仓库提供**12个课程**，旨在帮助初学者**快速入门并开始构建AI智能体**。"
+    },
+    {
+      "full_name": "dayanch96/YTLite",
+      "url": "https://github.com/dayanch96/YTLite",
+      "description": "A flexible enhancer for YouTube on iOS",
+      "stars_today": 55,
+      "total_stars": 4851,
+      "language": "Logos",
+      "topics": [],
+      "summary": "YTLite 是一个灵活的 iOS 平台 YouTube 增强工具，旨在提升用户在 YouTube 上的体验。"
+    },
+    {
+      "full_name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars_today": 162,
+      "total_stars": 16959,
+      "language": "Python",
+      "topics": [],
+      "summary": "RAG-Anything 是一个一体化的检索增强生成（RAG）框架，旨在提供一个全面且易于使用的解决方案来构建和部署各种 RAG 应用。"
+    },
+    {
+      "full_name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "stars_today": 534,
+      "total_stars": 53737,
+      "language": "Python",
+      "topics": [],
+      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，提供关键词筛选、AI 翻译分析、智能简报推送，并支持多种通知渠道和 Docker 部署。"
+    },
+    {
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars_today": 139,
+      "total_stars": 16809,
+      "language": "",
+      "topics": [],
+      "summary": "该仓库精选了来自官方和社区的 1000 多个智能体技能，兼容 Claude Code、Codex、Gemini CLI 和 Cursor 等平台。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
