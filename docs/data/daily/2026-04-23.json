@@ -1,0 +1,286 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T02:28:16.465840+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "stars_today": 871,
+          "total_stars": 7626,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在让整个代码库成为任何编码代理的上下文。"
+        },
+        {
+          "full_name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "stars_today": 1772,
+          "total_stars": 13193,
+          "language": "Python",
+          "topics": [],
+          "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
+        },
+        {
+          "full_name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "stars_today": 424,
+          "total_stars": 51665,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供一个由人工智能驱动的全球情报仪表板，用于实时聚合新闻、监测地缘政治和跟踪基础设施，实现统一的态势感知。"
+        },
+        {
+          "full_name": "langfuse/langfuse",
+          "url": "https://github.com/langfuse/langfuse",
+          "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+          "stars_today": 149,
+          "total_stars": 25663,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Langfuse 是一个开源的 LLM 工程平台，提供 LLM 可观测性、指标、评估、提示管理、沙盒和数据集等核心功能，并与 OpenTelemetry、Langchain 等主流工具集成。"
+        },
+        {
+          "full_name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "stars_today": 372,
+          "total_stars": 39638,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Shannon Lite 是一个自主、白盒的 Web 应用和 API 渗透测试工具，它能分析源代码、识别攻击路径并执行真实漏洞利用，以在生产环境前验证安全缺陷。"
+        },
+        {
+          "full_name": "open-metadata/OpenMetadata",
+          "url": "https://github.com/open-metadata/OpenMetadata",
+          "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+          "stars_today": 521,
+          "total_stars": 12224,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "OpenMetadata 是一个统一的元数据平台，通过中央元数据存储库、深度列级别血缘和无缝团队协作，提供数据发现、数据可观测性和数据治理功能。"
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "stars_today": 565,
+          "total_stars": 49405,
+          "language": "Rust",
+          "topics": [],
+          "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，**无需任何视频像素**。"
+        },
+        {
+          "full_name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "stars_today": 786,
+          "total_stars": 17597,
+          "language": "Python",
+          "topics": [],
+          "summary": "RAG-Anything 是一个**一体化检索增强生成 (RAG) 框架**，旨在提供**全面且易于使用的 RAG 解决方案**。"
+        },
+        {
+          "full_name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "stars_today": 969,
+          "total_stars": 54516,
+          "language": "Python",
+          "topics": [],
+          "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，提供关键词筛选、AI 翻译分析、智能简报推送，并支持多种通知渠道和 Docker 部署。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 15
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47863217,
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 715,
+      "created_at": "2026-04-22T13:19:58Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47863217",
+      "summary": "通义千问发布了旗舰级性能的270亿参数稠密模型Qwen3.6-27B，在代码能力上表现出色。"
+    },
+    {
+      "id": 47862497,
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "score": 404,
+      "created_at": "2026-04-22T12:15:29Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47862497",
+      "summary": "谷歌发布了第八代TPU，该芯片采用双芯片设计，旨在支持“代理时代”的人工智能工作负载。"
+    },
+    {
+      "id": 47864393,
+      "title": "Scoring Show HN submissions for AI design patterns",
+      "url": "https://www.adriankrebs.ch/blog/design-slop/",
+      "score": 276,
+      "created_at": "2026-04-22T14:44:32Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47864393",
+      "summary": "该博文探讨了如何为人工智能设计模式的提交进行评分，并讨论了设计中的“草率”问题。"
+    },
+    {
+      "id": 47860961,
+      "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+      "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+      "score": 110,
+      "created_at": "2026-04-22T09:02:46Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47860961",
+      "summary": "Meta 员工对一项强制性的、用于训练人工智能的员工活动追踪计划表示强烈不满和担忧。"
+    },
+    {
+      "id": 47862230,
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "url": "https://lwn.net/Articles/1068928/",
+      "score": 101,
+      "created_at": "2026-04-22T11:48:07Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47862230",
+      "summary": "大型语言模型（LLM）生成的安全报告正成为Linux内核代码移除的主要驱动力。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars_today": 871,
+      "total_stars": 7626,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在让整个代码库成为任何编码代理的上下文。"
+    },
+    {
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "stars_today": 1772,
+      "total_stars": 13193,
+      "language": "Python",
+      "topics": [],
+      "summary": "FinceptTerminal是一个现代化的金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在提供用户友好的交互式探索和数据驱动的决策环境。"
+    },
+    {
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars_today": 424,
+      "total_stars": 51665,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供一个由人工智能驱动的全球情报仪表板，用于实时聚合新闻、监测地缘政治和跟踪基础设施，实现统一的态势感知。"
+    },
+    {
+      "full_name": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "stars_today": 149,
+      "total_stars": 25663,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Langfuse 是一个开源的 LLM 工程平台，提供 LLM 可观测性、指标、评估、提示管理、沙盒和数据集等核心功能，并与 OpenTelemetry、Langchain 等主流工具集成。"
+    },
+    {
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "stars_today": 372,
+      "total_stars": 39638,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Shannon Lite 是一个自主、白盒的 Web 应用和 API 渗透测试工具，它能分析源代码、识别攻击路径并执行真实漏洞利用，以在生产环境前验证安全缺陷。"
+    },
+    {
+      "full_name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "stars_today": 521,
+      "total_stars": 12224,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "OpenMetadata 是一个统一的元数据平台，通过中央元数据存储库、深度列级别血缘和无缝团队协作，提供数据发现、数据可观测性和数据治理功能。"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 565,
+      "total_stars": 49405,
+      "language": "Rust",
+      "topics": [],
+      "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，**无需任何视频像素**。"
+    },
+    {
+      "full_name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars_today": 786,
+      "total_stars": 17597,
+      "language": "Python",
+      "topics": [],
+      "summary": "RAG-Anything 是一个**一体化检索增强生成 (RAG) 框架**，旨在提供**全面且易于使用的 RAG 解决方案**。"
+    },
+    {
+      "full_name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "stars_today": 969,
+      "total_stars": 54516,
+      "language": "Python",
+      "topics": [],
+      "summary": "TrendRadar 是一个由 AI 驱动的舆情与趋势监控工具，它聚合多平台和 RSS 源，提供关键词筛选、AI 翻译分析、智能简报推送，并支持多种通知渠道和 Docker 部署。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
