@@ -1,0 +1,268 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T02:28:37.341189+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "huggingface/ml-intern",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "stars_today": 720,
+          "total_stars": 3492,
+          "language": "Python",
+          "topics": [],
+          "summary": "🤗 ml-intern 是一个开源的机器学习工程师，其核心功能是**阅读论文、训练模型并将机器学习模型投入实际应用**。"
+        },
+        {
+          "full_name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "stars_today": 1011,
+          "total_stars": 8491,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
+        },
+        {
+          "full_name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "stars_today": 590,
+          "total_stars": 18235,
+          "language": "Python",
+          "topics": [],
+          "summary": "RAG-Anything 是一个一体化的检索增强生成（RAG）框架，旨在提供一个全面的解决方案来构建和部署各种 RAG 应用。"
+        },
+        {
+          "full_name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "stars_today": 1383,
+          "total_stars": 61166,
+          "language": "Python",
+          "topics": [],
+          "summary": "这是一个集成了多种功能的“全能型黑客工具箱”，旨在为黑客提供一站式的渗透测试和安全评估能力。"
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "stars_today": 429,
+          "total_stars": 49864,
+          "language": "Rust",
+          "topics": [],
+          "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，其核心功能是**无需任何视频像素**即可实现这些功能。"
+        },
+        {
+          "full_name": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "stars_today": 316,
+          "total_stars": 7034,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "这是一个提供**无内容过滤、可自托管**的**开源生成式AI工作室**，集成了200多个模型，用于**自由生成图像和视频**。"
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "stars_today": 1962,
+          "total_stars": 5707,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供在终端、VSCode 扩展或 Discord 中免费使用 Claude-Code 的方法，核心功能是实现对 Claude-Code 的便捷访问。"
+        },
+        {
+          "full_name": "open-metadata/OpenMetadata",
+          "url": "https://github.com/open-metadata/OpenMetadata",
+          "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+          "stars_today": 776,
+          "total_stars": 12968,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "OpenMetadata 是一个统一的元数据平台，通过中央元数据存储库、深入的列级别血缘和无缝团队协作，提供数据发现、数据可观测性和数据治理功能。"
+        },
+        {
+          "full_name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "stars_today": 208,
+          "total_stars": 58858,
+          "language": "Jupyter Notebook",
+          "topics": [],
+          "summary": "该仓库提供**12个课程**，旨在帮助初学者**快速入门并开始构建AI智能体**。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 11
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47872452,
+      "title": "Our newsroom AI policy",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "score": 187,
+      "created_at": "2026-04-23T05:14:05Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47872452",
+      "summary": "该新闻机构发布了其新闻编辑室的人工智能政策，旨在规范AI在新闻生产中的使用。"
+    },
+    {
+      "id": 47878117,
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "score": 156,
+      "created_at": "2026-04-23T16:55:13Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47878117",
+      "summary": "MeshCore开发团队因商标纠纷和AI生成代码问题而分裂。"
+    },
+    {
+      "id": 47882697,
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "score": 108,
+      "created_at": "2026-04-23T22:01:59Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47882697",
+      "summary": "Tolaria 是一个开源的 macOS 应用，旨在帮助用户管理基于 Markdown 格式的知识库。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "stars_today": 720,
+      "total_stars": 3492,
+      "language": "Python",
+      "topics": [],
+      "summary": "🤗 ml-intern 是一个开源的机器学习工程师，其核心功能是**阅读论文、训练模型并将机器学习模型投入实际应用**。"
+    },
+    {
+      "full_name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars_today": 1011,
+      "total_stars": 8491,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是为 Claude Code 提供代码搜索多上下文处理（MCP），旨在将整个代码库作为任何代码代理的上下文。"
+    },
+    {
+      "full_name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars_today": 590,
+      "total_stars": 18235,
+      "language": "Python",
+      "topics": [],
+      "summary": "RAG-Anything 是一个一体化的检索增强生成（RAG）框架，旨在提供一个全面的解决方案来构建和部署各种 RAG 应用。"
+    },
+    {
+      "full_name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "stars_today": 1383,
+      "total_stars": 61166,
+      "language": "Python",
+      "topics": [],
+      "summary": "这是一个集成了多种功能的“全能型黑客工具箱”，旨在为黑客提供一站式的渗透测试和安全评估能力。"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 429,
+      "total_stars": 49864,
+      "language": "Rust",
+      "topics": [],
+      "summary": "RuView是一个利用商品级WiFi信号进行实时人体姿态估计、生命体征监测和存在检测的系统，其核心功能是**无需任何视频像素**即可实现这些功能。"
+    },
+    {
+      "full_name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "stars_today": 316,
+      "total_stars": 7034,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "这是一个提供**无内容过滤、可自托管**的**开源生成式AI工作室**，集成了200多个模型，用于**自由生成图像和视频**。"
+    },
+    {
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars_today": 1962,
+      "total_stars": 5707,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供在终端、VSCode 扩展或 Discord 中免费使用 Claude-Code 的方法，核心功能是实现对 Claude-Code 的便捷访问。"
+    },
+    {
+      "full_name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "stars_today": 776,
+      "total_stars": 12968,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "OpenMetadata 是一个统一的元数据平台，通过中央元数据存储库、深入的列级别血缘和无缝团队协作，提供数据发现、数据可观测性和数据治理功能。"
+    },
+    {
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars_today": 208,
+      "total_stars": 58858,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": "该仓库提供**12个课程**，旨在帮助初学者**快速入门并开始构建AI智能体**。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
