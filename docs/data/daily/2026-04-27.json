@@ -1,0 +1,268 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T02:35:17.581891+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+          "stars_today": 2519,
+          "total_stars": 24210,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供了作者从其 `.claude` 目录中提取的、专为真实工程师设计的智能体技能。"
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "stars_today": 1701,
+          "total_stars": 13878,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供在终端、VSCode 扩展或 Discord 中免费使用 Claude-Code 的方法。"
+        },
+        {
+          "full_name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "stars_today": 1720,
+          "total_stars": 65643,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库是一个**多合一的黑客工具集合**，旨在为黑客提供**集成化的渗透测试和安全操作功能**。"
+        },
+        {
+          "full_name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "stars_today": 700,
+          "total_stars": 30273,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具，用户可直接导入GitHub仓库或ZIP文件，生成交互式知识图谱，并内置图谱RAG智能体，实现零服务器的代码智能分析。"
+        },
+        {
+          "full_name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+          "stars_today": 337,
+          "total_stars": 33879,
+          "language": "Python",
+          "topics": [],
+          "summary": "PostHog 是一个一体化的开发者平台，提供产品分析、会话回放、错误跟踪、功能标志、实验、调查、数据仓库、CDP 和 AI 产品助手等功能，旨在帮助构建成功的、数据驱动的产品。"
+        },
+        {
+          "full_name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description": "Staging repo for development of native port of TypeScript",
+          "stars_today": 23,
+          "total_stars": 25175,
+          "language": "Go",
+          "topics": [],
+          "summary": "该仓库是微软用于开发原生 TypeScript 移植版的暂存库。"
+        },
+        {
+          "full_name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "stars_today": 182,
+          "total_stars": 14440,
+          "language": "HTML",
+          "topics": [],
+          "summary": "Cua 是一个开源基础设施，提供沙盒、SDK 和基准测试，用于训练和评估能够控制 macOS、Linux 和 Windows 全桌面的人工智能代理。"
+        },
+        {
+          "full_name": "gastownhall/beads",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "stars_today": 152,
+          "total_stars": 21722,
+          "language": "Go",
+          "topics": [],
+          "summary": "Beads 是一个为编码代理设计的内存升级工具，其核心功能是增强代理的记忆能力。"
+        },
+        {
+          "full_name": "curl/curl",
+          "url": "https://github.com/curl/curl",
+          "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+          "stars_today": 30,
+          "total_stars": 41567,
+          "language": "C",
+          "topics": [],
+          "summary": "curl 是一个支持多种协议（如 HTTP/HTTPS、FTP、SMTP 等）的命令行工具和库，用于通过 URL 语法传输数据，并提供丰富的强大功能。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 12
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47911524,
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "score": 470,
+      "created_at": "2026-04-26T16:27:29Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47911524",
+      "summary": "一个人工智能代理意外删除了生产数据库，并留下了“认罪”信息。"
+    },
+    {
+      "id": 47913650,
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "score": 295,
+      "created_at": "2026-04-26T20:03:12Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47913650",
+      "summary": "文章核心观点是人工智能应作为提升人类思维的工具，而非取代人类思考过程。"
+    },
+    {
+      "id": 47908433,
+      "title": "Eden AI – European Alternative to OpenRouter",
+      "url": "https://www.edenai.co",
+      "score": 125,
+      "created_at": "2026-04-26T08:18:09Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47908433",
+      "summary": "Eden AI 正在成为 OpenRouter 的欧洲替代品，提供统一的 API 接口来访问多个领先的 AI 模型。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "stars_today": 2519,
+      "total_stars": 24210,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供了作者从其 `.claude` 目录中提取的、专为真实工程师设计的智能体技能。"
+    },
+    {
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars_today": 1701,
+      "total_stars": 13878,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供在终端、VSCode 扩展或 Discord 中免费使用 Claude-Code 的方法。"
+    },
+    {
+      "full_name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "stars_today": 1720,
+      "total_stars": 65643,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库是一个**多合一的黑客工具集合**，旨在为黑客提供**集成化的渗透测试和安全操作功能**。"
+    },
+    {
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars_today": 700,
+      "total_stars": 30273,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具，用户可直接导入GitHub仓库或ZIP文件，生成交互式知识图谱，并内置图谱RAG智能体，实现零服务器的代码智能分析。"
+    },
+    {
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "stars_today": 337,
+      "total_stars": 33879,
+      "language": "Python",
+      "topics": [],
+      "summary": "PostHog 是一个一体化的开发者平台，提供产品分析、会话回放、错误跟踪、功能标志、实验、调查、数据仓库、CDP 和 AI 产品助手等功能，旨在帮助构建成功的、数据驱动的产品。"
+    },
+    {
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "stars_today": 23,
+      "total_stars": 25175,
+      "language": "Go",
+      "topics": [],
+      "summary": "该仓库是微软用于开发原生 TypeScript 移植版的暂存库。"
+    },
+    {
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars_today": 182,
+      "total_stars": 14440,
+      "language": "HTML",
+      "topics": [],
+      "summary": "Cua 是一个开源基础设施，提供沙盒、SDK 和基准测试，用于训练和评估能够控制 macOS、Linux 和 Windows 全桌面的人工智能代理。"
+    },
+    {
+      "full_name": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "stars_today": 152,
+      "total_stars": 21722,
+      "language": "Go",
+      "topics": [],
+      "summary": "Beads 是一个为编码代理设计的内存升级工具，其核心功能是增强代理的记忆能力。"
+    },
+    {
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "stars_today": 30,
+      "total_stars": 41567,
+      "language": "C",
+      "topics": [],
+      "summary": "curl 是一个支持多种协议（如 HTTP/HTTPS、FTP、SMTP 等）的命令行工具和库，用于通过 URL 语法传输数据，并提供丰富的强大功能。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
