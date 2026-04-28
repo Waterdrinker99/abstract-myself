@@ -1,0 +1,295 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T02:43:10.891512+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "stars_today": 5645,
+          "total_stars": 30853,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供了作者从其 `.claude` 目录中提取的、面向真实工程师的技能清单。"
+        },
+        {
+          "full_name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "stars_today": 1102,
+          "total_stars": 31656,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "GitNexus 是一个完全在浏览器中运行的零服务器代码智能引擎，它能将 GitHub 仓库或 ZIP 文件转换为交互式知识图谱，并内置图谱 RAG 代理，非常适合代码探索。"
+        },
+        {
+          "full_name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "stars_today": 638,
+          "total_stars": 2898,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库精选了实用的 Codex 技能，用于通过 Codex 命令行界面和 API 自动化工作流程。"
+        },
+        {
+          "full_name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "stars_today": 2949,
+          "total_stars": 16253,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供在终端、VSCode 扩展或 Discord 中免费使用 Claude-Code 的方法，核心功能是让用户便捷地访问和利用 Claude-Code。"
+        },
+        {
+          "full_name": "gastownhall/beads",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "stars_today": 498,
+          "total_stars": 22243,
+          "language": "Go",
+          "topics": [],
+          "summary": "Beads 是一个为编码代理设计的内存升级工具，其核心功能是增强代理的记忆能力。"
+        },
+        {
+          "full_name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "stars_today": 166,
+          "total_stars": 46678,
+          "language": "Clojure",
+          "topics": [],
+          "summary": "Penpot 是一个开源的设计工具，核心功能是促进设计与代码之间的协作。"
+        },
+        {
+          "full_name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "stars_today": 154,
+          "total_stars": 25816,
+          "language": "Python",
+          "topics": [],
+          "summary": "该GitHub仓库提供了一个用于配置和监控Claude Code的命令行工具（CLI），核心功能是简化Claude Code的设置与追踪。"
+        },
+        {
+          "full_name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "stars_today": 757,
+          "total_stars": 43214,
+          "language": "Python",
+          "topics": [],
+          "summary": "VibeVoice 是微软开源的前沿语音人工智能项目，旨在提供先进的语音处理和生成能力。"
+        },
+        {
+          "full_name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "stars_today": 1830,
+          "total_stars": 67217,
+          "language": "Python",
+          "topics": [],
+          "summary": "这是一个集成了多种功能的“全能型黑客工具箱”，旨在为黑客提供一站式的渗透测试和安全操作支持。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 12
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47921248,
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 766,
+      "created_at": "2026-04-27T13:22:42Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47921248",
+      "summary": "微软和OpenAI已终止其独家合作及收入分成协议。"
+    },
+    {
+      "id": 47919630,
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 451,
+      "created_at": "2026-04-27T09:57:10Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47919630",
+      "summary": "Mercor 遭窃事件中，四万名人工智能承包商的四TB语音样本数据被盗。"
+    },
+    {
+      "id": 47920315,
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "score": 308,
+      "created_at": "2026-04-27T11:43:59Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47920315",
+      "summary": "中国政府以反垄断为由，阻止了Meta对人工智能初创公司Manus的收购。"
+    },
+    {
+      "id": 47919725,
+      "title": "Mistral built a $14B AI empire by not being American",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+      "score": 204,
+      "created_at": "2026-04-27T10:14:15Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47919725",
+      "summary": "法国初创公司 Mistral 凭借其非美国背景，成功建立了一个价值 140 亿美元的人工智能帝国。"
+    },
+    {
+      "id": 47921064,
+      "title": "Running local LLMs offline on a ten-hour flight",
+      "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+      "score": 114,
+      "created_at": "2026-04-27T13:05:59Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47921064",
+      "summary": "该技术新闻报道了如何在长达十小时的飞行中，利用本地部署的大型语言模型（LLM）实现离线运行。"
+    },
+    {
+      "id": 47927903,
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 101,
+      "created_at": "2026-04-27T21:55:48Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47927903",
+      "summary": "Talkie 是一个基于 1930 年代风格的 130 亿参数的复古语言模型。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 5645,
+      "total_stars": 30853,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供了作者从其 `.claude` 目录中提取的、面向真实工程师的技能清单。"
+    },
+    {
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars_today": 1102,
+      "total_stars": 31656,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "GitNexus 是一个完全在浏览器中运行的零服务器代码智能引擎，它能将 GitHub 仓库或 ZIP 文件转换为交互式知识图谱，并内置图谱 RAG 代理，非常适合代码探索。"
+    },
+    {
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "stars_today": 638,
+      "total_stars": 2898,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库精选了实用的 Codex 技能，用于通过 Codex 命令行界面和 API 自动化工作流程。"
+    },
+    {
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars_today": 2949,
+      "total_stars": 16253,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供在终端、VSCode 扩展或 Discord 中免费使用 Claude-Code 的方法，核心功能是让用户便捷地访问和利用 Claude-Code。"
+    },
+    {
+      "full_name": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "stars_today": 498,
+      "total_stars": 22243,
+      "language": "Go",
+      "topics": [],
+      "summary": "Beads 是一个为编码代理设计的内存升级工具，其核心功能是增强代理的记忆能力。"
+    },
+    {
+      "full_name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "stars_today": 166,
+      "total_stars": 46678,
+      "language": "Clojure",
+      "topics": [],
+      "summary": "Penpot 是一个开源的设计工具，核心功能是促进设计与代码之间的协作。"
+    },
+    {
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars_today": 154,
+      "total_stars": 25816,
+      "language": "Python",
+      "topics": [],
+      "summary": "该GitHub仓库提供了一个用于配置和监控Claude Code的命令行工具（CLI），核心功能是简化Claude Code的设置与追踪。"
+    },
+    {
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars_today": 757,
+      "total_stars": 43214,
+      "language": "Python",
+      "topics": [],
+      "summary": "VibeVoice 是微软开源的前沿语音人工智能项目，旨在提供先进的语音处理和生成能力。"
+    },
+    {
+      "full_name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "stars_today": 1830,
+      "total_stars": 67217,
+      "language": "Python",
+      "topics": [],
+      "summary": "这是一个集成了多种功能的“全能型黑客工具箱”，旨在为黑客提供一站式的渗透测试和安全操作支持。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
