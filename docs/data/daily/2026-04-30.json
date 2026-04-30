@@ -1,0 +1,295 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T02:44:56.853403+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "warpdotdev/warp",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "stars_today": 12822,
+          "total_stars": 44653,
+          "language": "Rust",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "stars_today": 7280,
+          "total_stars": 45166,
+          "language": "Shell",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "stars_today": 1033,
+          "total_stars": 11633,
+          "language": "Python",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "stars_today": 1177,
+          "total_stars": 4851,
+          "language": "Python",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "stars_today": 411,
+          "total_stars": 1422,
+          "language": "Rust",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "stars_today": 774,
+          "total_stars": 33392,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "stars_today": 1690,
+          "total_stars": 45739,
+          "language": "Python",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "CJackHwang/ds2api",
+          "url": "https://github.com/CJackHwang/ds2api",
+          "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+          "stars_today": 465,
+          "total_stars": 2761,
+          "language": "Go",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        },
+        {
+          "full_name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars_today": 1653,
+          "total_stars": 173271,
+          "language": "Shell",
+          "topics": [],
+          "summary": "Repo，摘要生成失败。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 68
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47949642,
+      "title": "Mistral Medium 3.5",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "score": 433,
+      "created_at": "2026-04-29T15:17:46Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47949642",
+      "summary": "Story，摘要生成失败。"
+    },
+    {
+      "id": 47949750,
+      "title": "Why AI companies want you to be afraid of them",
+      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "score": 267,
+      "created_at": "2026-04-29T15:26:01Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47949750",
+      "summary": "Story，摘要生成失败。"
+    },
+    {
+      "id": 47947490,
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "score": 234,
+      "created_at": "2026-04-29T12:38:50Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47947490",
+      "summary": "Story，摘要生成失败。"
+    },
+    {
+      "id": 47953011,
+      "title": "\"People who don't use AI will be left behind\"",
+      "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+      "score": 147,
+      "created_at": "2026-04-29T19:15:52Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47953011",
+      "summary": "Story，摘要生成失败。"
+    },
+    {
+      "id": 47947525,
+      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "score": 121,
+      "created_at": "2026-04-29T12:43:12Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47947525",
+      "summary": "Story，摘要生成失败。"
+    },
+    {
+      "id": 47951786,
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "score": 111,
+      "created_at": "2026-04-29T17:44:21Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47951786",
+      "summary": "Story，摘要生成失败。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "stars_today": 12822,
+      "total_stars": 44653,
+      "language": "Rust",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 7280,
+      "total_stars": 45166,
+      "language": "Shell",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars_today": 1033,
+      "total_stars": 11633,
+      "language": "Python",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "stars_today": 1177,
+      "total_stars": 4851,
+      "language": "Python",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars_today": 411,
+      "total_stars": 1422,
+      "language": "Rust",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars_today": 774,
+      "total_stars": 33392,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars_today": 1690,
+      "total_stars": 45739,
+      "language": "Python",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "CJackHwang/ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "stars_today": 465,
+      "total_stars": 2761,
+      "language": "Go",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars_today": 1653,
+      "total_stars": 173271,
+      "language": "Shell",
+      "topics": [],
+      "summary": "Repo，摘要生成失败。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
