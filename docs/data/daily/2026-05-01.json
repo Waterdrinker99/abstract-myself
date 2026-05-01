@@ -1,0 +1,286 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T02:50:53.548077+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "warpdotdev/warp",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "stars_today": 8399,
+          "total_stars": 49419,
+          "language": "Rust",
+          "topics": [],
+          "summary": "Warp 是一个源自终端的、**代理式（Agentic）的开发环境**，旨在提供智能化的终端体验。"
+        },
+        {
+          "full_name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "stars_today": 2023,
+          "total_stars": 57874,
+          "language": "Python",
+          "topics": [],
+          "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）金融交易框架，旨在提供一个集成化的环境来研究和部署复杂的交易策略。"
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "stars_today": 6187,
+          "total_stars": 49710,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库是作者从其 `.claude` 目录中提取的，旨在为真正的工程师提供实用的技能资源。"
+        },
+        {
+          "full_name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars_today": 1632,
+          "total_stars": 174662,
+          "language": "Shell",
+          "topics": [],
+          "summary": "Superpowers 是一个实用的、可行的**代理技能框架和软件开发方法论**。"
+        },
+        {
+          "full_name": "lukilabs/craft-agents-oss",
+          "url": "https://github.com/lukilabs/craft-agents-oss",
+          "description": "",
+          "stars_today": 319,
+          "total_stars": 5587,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个开源的、基于大型语言模型（LLM）的智能体框架，用于构建和部署能够执行复杂任务的自主智能体应用。"
+        },
+        {
+          "full_name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "stars_today": 322,
+          "total_stars": 429590,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库的核心功能是维护一个**免费API的集合列表**，其关键特性是**汇集了大量可公开访问的、无需付费的API资源**。"
+        },
+        {
+          "full_name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "stars_today": 675,
+          "total_stars": 1920,
+          "language": "Rust",
+          "topics": [],
+          "summary": "`jcode` 是一个用于**编码代理**的**框架**，旨在提供一个**结构化**的**环境**来**开发**和**运行**各种**代码生成**与**辅助**任务。"
+        },
+        {
+          "full_name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "stars_today": 730,
+          "total_stars": 20875,
+          "language": "Python",
+          "topics": [],
+          "summary": "Maigret 的核心功能是利用用户名从超过 3000 个网站收集个人信息，以生成一份调查档案。"
+        },
+        {
+          "full_name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "stars_today": 841,
+          "total_stars": 12199,
+          "language": "Python",
+          "topics": [],
+          "summary": "GhostTrack 是一个用于追踪位置或手机号码的实用工具。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 1,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 1,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 11
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47963204,
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 985,
+      "created_at": "2026-04-30T14:36:58Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47963204",
+      "summary": "Claude Code 会拒绝包含“OpenClaw”的提交请求或额外收费。"
+    },
+    {
+      "id": 47964617,
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 332,
+      "created_at": "2026-04-30T16:09:26Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47964617",
+      "summary": "一个名为“沙胡”（Shai-Hulud）的恶意软件被发现潜伏在PyTorch Lightning AI训练库中，可能用于窃取数据或执行其他恶意活动。"
+    },
+    {
+      "id": 47957627,
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "score": 190,
+      "created_at": "2026-04-30T03:11:51Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47957627",
+      "summary": "研究发现，大型语言模型（LLM）的微调过程可能意外地激活并使模型回忆起训练数据中受版权保护的书籍内容。"
+    },
+    {
+      "id": 47959513,
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "url": "https://datacenter.fm/",
+      "score": 134,
+      "created_at": "2026-04-30T07:52:12Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47959513",
+      "summary": "DataCenter.FM 是一个背景噪音应用，其特色是收录了“AI 泡沫”的声音。"
+    },
+    {
+      "id": 47963163,
+      "title": "The More Young People Use AI, the More They Hate It",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+      "score": 114,
+      "created_at": "2026-04-30T14:34:36Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47963163",
+      "summary": "研究显示，年轻一代（Z世代）使用人工智能的频率越高，他们对AI的负面情绪和反感也随之增加。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "stars_today": 8399,
+      "total_stars": 49419,
+      "language": "Rust",
+      "topics": [],
+      "summary": "Warp 是一个源自终端的、**代理式（Agentic）的开发环境**，旨在提供智能化的终端体验。"
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 2023,
+      "total_stars": 57874,
+      "language": "Python",
+      "topics": [],
+      "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）金融交易框架，旨在提供一个集成化的环境来研究和部署复杂的交易策略。"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 6187,
+      "total_stars": 49710,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库是作者从其 `.claude` 目录中提取的，旨在为真正的工程师提供实用的技能资源。"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars_today": 1632,
+      "total_stars": 174662,
+      "language": "Shell",
+      "topics": [],
+      "summary": "Superpowers 是一个实用的、可行的**代理技能框架和软件开发方法论**。"
+    },
+    {
+      "full_name": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "stars_today": 319,
+      "total_stars": 5587,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个开源的、基于大型语言模型（LLM）的智能体框架，用于构建和部署能够执行复杂任务的自主智能体应用。"
+    },
+    {
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars_today": 322,
+      "total_stars": 429590,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库的核心功能是维护一个**免费API的集合列表**，其关键特性是**汇集了大量可公开访问的、无需付费的API资源**。"
+    },
+    {
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars_today": 675,
+      "total_stars": 1920,
+      "language": "Rust",
+      "topics": [],
+      "summary": "`jcode` 是一个用于**编码代理**的**框架**，旨在提供一个**结构化**的**环境**来**开发**和**运行**各种**代码生成**与**辅助**任务。"
+    },
+    {
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars_today": 730,
+      "total_stars": 20875,
+      "language": "Python",
+      "topics": [],
+      "summary": "Maigret 的核心功能是利用用户名从超过 3000 个网站收集个人信息，以生成一份调查档案。"
+    },
+    {
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars_today": 841,
+      "total_stars": 12199,
+      "language": "Python",
+      "topics": [],
+      "summary": "GhostTrack 是一个用于追踪位置或手机号码的实用工具。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
