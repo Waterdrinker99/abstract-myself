@@ -1,0 +1,322 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T02:32:20.832049+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "stars_today": 2112,
+          "total_stars": 60007,
+          "language": "Python",
+          "topics": [],
+          "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）金融交易框架，旨在提供一个集成的环境来进行复杂的、基于AI的交易策略开发与执行。"
+        },
+        {
+          "full_name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "stars_today": 535,
+          "total_stars": 21732,
+          "language": "Python",
+          "topics": [],
+          "summary": "Maigret 的核心功能是利用用户名从超过 3000 个网站收集个人信息，以生成一份详细的调查档案。"
+        },
+        {
+          "full_name": "warpdotdev/warp",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "stars_today": 3401,
+          "total_stars": 51576,
+          "language": "Rust",
+          "topics": [],
+          "summary": "Warp 是一个源于终端的、具有代理能力的开发环境。"
+        },
+        {
+          "full_name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "stars_today": 403,
+          "total_stars": 2390,
+          "language": "Rust",
+          "topics": [],
+          "summary": "`jcode` 是一个用于构建和管理编码代理（Coding Agent）的框架或工具集，旨在提供一个统一的平台来驱动和协调这些智能体完成编程任务。"
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "stars_today": 3645,
+          "total_stars": 52708,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库（mattpocock/skills）的核心功能是提供“面向真实工程师的技能”，这些技能内容直接来源于作者的`.claude`目录。"
+        },
+        {
+          "full_name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "stars_today": 334,
+          "total_stars": 1204,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "该仓库提供了一个Claude Agent SDK，核心功能是集成网页浏览工具，使用户能够构建具备网络信息获取能力的Claude智能体。"
+        },
+        {
+          "full_name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+          "stars_today": 56,
+          "total_stars": 28175,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Sim 是一个核心智能层，用于构建、部署和编排 AI 代理，充当您 AI 工作流程的中央智能中枢。"
+        },
+        {
+          "full_name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars_today": 1096,
+          "total_stars": 175679,
+          "language": "Shell",
+          "topics": [],
+          "summary": "Superpowers 是一个实用的、以代理为中心的技能框架和软件开发方法论。"
+        },
+        {
+          "full_name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description": "",
+          "stars_today": 145,
+          "total_stars": 26979,
+          "language": "Batchfile",
+          "topics": [],
+          "summary": "该项目提供了一个用于绕过特定地区限制（如俄罗斯的“禁止”内容）的工具，允许用户通过Discord机器人访问和播放被屏蔽的YouTube视频。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 1,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 1,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 14
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47972447,
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "score": 379,
+      "created_at": "2026-05-01T08:29:31Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47972447",
+      "summary": "Grok 4.3 是 xAI 推出的最新一代大型语言模型，旨在提供更先进的性能和功能。"
+    },
+    {
+      "id": 47976415,
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "score": 369,
+      "created_at": "2026-05-01T16:08:53Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47976415",
+      "summary": "Uber 在四个月内就将原计划用于 2026 年的全部人工智能预算投入到了 Claude Code 的使用上。"
+    },
+    {
+      "id": 47977383,
+      "title": "AI uses less water than the public thinks",
+      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+      "score": 343,
+      "created_at": "2026-05-01T17:18:58Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47977383",
+      "summary": "人工智能的实际耗水量比公众普遍认为的要少。"
+    },
+    {
+      "id": 47975571,
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": "",
+      "score": 229,
+      "created_at": "2026-05-01T15:00:07Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47975571",
+      "summary": "黑客新闻（Hacker News）五月招聘帖（2026年）汇总了当前科技行业各公司发布的职位空缺信息。"
+    },
+    {
+      "id": 47976856,
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+      "score": 206,
+      "created_at": "2026-05-01T16:42:41Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47976856",
+      "summary": "Spotify开始为人类艺人添加“已验证”徽章，以区分其内容与人工智能生成的内容。"
+    },
+    {
+      "id": 47973108,
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "score": 137,
+      "created_at": "2026-05-01T10:28:12Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47973108",
+      "summary": "OpenAI 继批评 Anthropic 限制其 Mythos 模型后，也开始限制对其 Cyber 模型的访问权限。"
+    },
+    {
+      "id": 47975570,
+      "title": "Ask HN: Who wants to be hired? (May 2026)",
+      "url": "",
+      "score": 120,
+      "created_at": "2026-05-01T15:00:07Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47975570",
+      "summary": "这个帖子是 Hacker News 社区关于 2026 年 5 月的招聘意向征集，旨在连接求职者和潜在雇主。"
+    },
+    {
+      "id": 47972659,
+      "title": "Advanced Quantization Algorithm for LLMs",
+      "url": "https://github.com/intel/auto-round",
+      "score": 117,
+      "created_at": "2026-05-01T09:10:02Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47972659",
+      "summary": "英特尔开源了一个先进的量化算法，旨在提高大型语言模型（LLMs）的效率和性能。"
+    },
+    {
+      "id": 47977470,
+      "title": "Understand Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "score": 107,
+      "created_at": "2026-05-01T17:27:03Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47977470",
+      "summary": "该技术新闻报道了一个名为“Understand Anything”的GitHub项目，旨在提供一种通用的理解能力。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 2112,
+      "total_stars": 60007,
+      "language": "Python",
+      "topics": [],
+      "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）金融交易框架，旨在提供一个集成的环境来进行复杂的、基于AI的交易策略开发与执行。"
+    },
+    {
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars_today": 535,
+      "total_stars": 21732,
+      "language": "Python",
+      "topics": [],
+      "summary": "Maigret 的核心功能是利用用户名从超过 3000 个网站收集个人信息，以生成一份详细的调查档案。"
+    },
+    {
+      "full_name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "stars_today": 3401,
+      "total_stars": 51576,
+      "language": "Rust",
+      "topics": [],
+      "summary": "Warp 是一个源于终端的、具有代理能力的开发环境。"
+    },
+    {
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars_today": 403,
+      "total_stars": 2390,
+      "language": "Rust",
+      "topics": [],
+      "summary": "`jcode` 是一个用于构建和管理编码代理（Coding Agent）的框架或工具集，旨在提供一个统一的平台来驱动和协调这些智能体完成编程任务。"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 3645,
+      "total_stars": 52708,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库（mattpocock/skills）的核心功能是提供“面向真实工程师的技能”，这些技能内容直接来源于作者的`.claude`目录。"
+    },
+    {
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars_today": 334,
+      "total_stars": 1204,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "该仓库提供了一个Claude Agent SDK，核心功能是集成网页浏览工具，使用户能够构建具备网络信息获取能力的Claude智能体。"
+    },
+    {
+      "full_name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "stars_today": 56,
+      "total_stars": 28175,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Sim 是一个核心智能层，用于构建、部署和编排 AI 代理，充当您 AI 工作流程的中央智能中枢。"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars_today": 1096,
+      "total_stars": 175679,
+      "language": "Shell",
+      "topics": [],
+      "summary": "Superpowers 是一个实用的、以代理为中心的技能框架和软件开发方法论。"
+    },
+    {
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "stars_today": 145,
+      "total_stars": 26979,
+      "language": "Batchfile",
+      "topics": [],
+      "summary": "该项目提供了一个用于绕过特定地区限制（如俄罗斯的“禁止”内容）的工具，允许用户通过Discord机器人访问和播放被屏蔽的YouTube视频。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
