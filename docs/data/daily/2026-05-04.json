@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T02:39:53.856024+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "stars_today": 1840,
+          "total_stars": 39157,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Ruvnet/ruflo 是一个领先的 Claude 智能体编排平台，用于部署多智能体群、协调自主工作流，并构建企业级、自学习、集成 RAG 和 Claude 代码/Codex 的会话式 AI 系统。"
+        },
+        {
+          "full_name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "stars_today": 3313,
+          "total_stars": 65428,
+          "language": "Python",
+          "topics": [],
+          "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）驱动的金融交易框架，旨在提供一个灵活且可扩展的自动化交易解决方案。"
+        },
+        {
+          "full_name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "stars_today": 1119,
+          "total_stars": 23895,
+          "language": "Python",
+          "topics": [],
+          "summary": "Maigret 的核心功能是**通过用户名从超过 3000 个网站收集个人信息并生成一份档案**。"
+        },
+        {
+          "full_name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "stars_today": 343,
+          "total_stars": 2239,
+          "language": "Rust",
+          "topics": [],
+          "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型代码代理，其核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互和代码生成。"
+        },
+        {
+          "full_name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "stars_today": 497,
+          "total_stars": 10066,
+          "language": "Python",
+          "topics": [],
+          "summary": "该项目是一个**AI全自动短视频引擎**，旨在实现短视频制作的自动化流程。"
+        },
+        {
+          "full_name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "stars_today": 322,
+          "total_stars": 1851,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "该GitHub仓库提供了一个Claude Agent SDK，其核心功能是集成了一个网页浏览工具，使用户能够构建具备网络信息获取能力的Claude智能体。"
+        },
+        {
+          "full_name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "stars_today": 282,
+          "total_stars": 19557,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个**MCP（可能是指某种集成或连接器）**，用于**Claude 桌面/代码、Windsurf 和 Cursor**，以帮助用户**构建 n8n 工作流**。"
+        },
+        {
+          "full_name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "stars_today": 591,
+          "total_stars": 3471,
+          "language": "Rust",
+          "topics": [],
+          "summary": "`jcode` 是一个用于构建和管理编码代理的框架，其核心功能是提供一个统一的接口和工具集来驱动和协调各种AI驱动的编程任务。"
+        },
+        {
+          "full_name": "openwrt/openwrt",
+          "url": "https://github.com/openwrt/openwrt",
+          "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+          "stars_today": 26,
+          "total_stars": 26633,
+          "language": "C",
+          "topics": [],
+          "summary": "OpenWrt 仓库是 OpenWrt 官方 Git 仓库的镜像，主要用于参考和接收拉取请求（Pull Requests），这些请求会经过暂存树后再合并到主仓库。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 1,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 1,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 11
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 47994012,
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "score": 261,
+      "created_at": "2026-05-03T06:33:38Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47994012",
+      "summary": "该博文探讨了作者如何通过撰写 YAML 格式的规范（specsmaxxing）来应对“AI 精神错乱”的问题，强调了清晰规范在 AI 时代的重要性。"
+    },
+    {
+      "id": 47998225,
+      "title": "For thirty years I programmed with Phish on, every day",
+      "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
+      "score": 210,
+      "created_at": "2026-05-03T15:55:59Z",
+      "comments_url": "https://news.ycombinator.com/item?id=47998225",
+      "summary": "一位程序员分享了三十年来在编程时持续播放Phish乐队音乐的经历，并探讨了这种习惯如何影响他的心流状态和工作效率。"
+    },
+    {
+      "id": 48002777,
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "score": 158,
+      "created_at": "2026-05-03T23:36:11Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48002777",
+      "summary": "该科技新闻报道的标题是“让我们购买精神航空”，暗示了与精神航空相关的收购或投资活动。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars_today": 1840,
+      "total_stars": 39157,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Ruvnet/ruflo 是一个领先的 Claude 智能体编排平台，用于部署多智能体群、协调自主工作流，并构建企业级、自学习、集成 RAG 和 Claude 代码/Codex 的会话式 AI 系统。"
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 3313,
+      "total_stars": 65428,
+      "language": "Python",
+      "topics": [],
+      "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）驱动的金融交易框架，旨在提供一个灵活且可扩展的自动化交易解决方案。"
+    },
+    {
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars_today": 1119,
+      "total_stars": 23895,
+      "language": "Python",
+      "topics": [],
+      "summary": "Maigret 的核心功能是**通过用户名从超过 3000 个网站收集个人信息并生成一份档案**。"
+    },
+    {
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars_today": 343,
+      "total_stars": 2239,
+      "language": "Rust",
+      "topics": [],
+      "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型代码代理，其核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互和代码生成。"
+    },
+    {
+      "full_name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars_today": 497,
+      "total_stars": 10066,
+      "language": "Python",
+      "topics": [],
+      "summary": "该项目是一个**AI全自动短视频引擎**，旨在实现短视频制作的自动化流程。"
+    },
+    {
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars_today": 322,
+      "total_stars": 1851,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "该GitHub仓库提供了一个Claude Agent SDK，其核心功能是集成了一个网页浏览工具，使用户能够构建具备网络信息获取能力的Claude智能体。"
+    },
+    {
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars_today": 282,
+      "total_stars": 19557,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个**MCP（可能是指某种集成或连接器）**，用于**Claude 桌面/代码、Windsurf 和 Cursor**，以帮助用户**构建 n8n 工作流**。"
+    },
+    {
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars_today": 591,
+      "total_stars": 3471,
+      "language": "Rust",
+      "topics": [],
+      "summary": "`jcode` 是一个用于构建和管理编码代理的框架，其核心功能是提供一个统一的接口和工具集来驱动和协调各种AI驱动的编程任务。"
+    },
+    {
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "stars_today": 26,
+      "total_stars": 26633,
+      "language": "C",
+      "topics": [],
+      "summary": "OpenWrt 仓库是 OpenWrt 官方 Git 仓库的镜像，主要用于参考和接收拉取请求（Pull Requests），这些请求会经过暂存树后再合并到主仓库。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
