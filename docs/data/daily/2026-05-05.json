@@ -1,0 +1,277 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T02:33:54.755578+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "stars_today": 2598,
+          "total_stars": 41561,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "`ruflo` 是一个领先的 Claude 智能体编排平台，用于部署多智能体群，协调自主工作流，并构建企业级、自学习、集成 RAG 和 Claude 代码/Codex 的会话式 AI 系统。"
+        },
+        {
+          "full_name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "stars_today": 2182,
+          "total_stars": 67648,
+          "language": "Python",
+          "topics": [],
+          "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）金融交易框架，旨在提供一个集成化的环境来进行复杂的、基于AI的交易策略研究与执行。"
+        },
+        {
+          "full_name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "stars_today": 320,
+          "total_stars": 2138,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "该仓库提供了一个Claude Agent SDK，其核心功能是集成了一个网页浏览工具，使用户能够构建具备网络信息获取能力的Claude智能体。"
+        },
+        {
+          "full_name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "stars_today": 1274,
+          "total_stars": 4119,
+          "language": "Rust",
+          "topics": [],
+          "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型编程代理，核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互式编码辅助。"
+        },
+        {
+          "full_name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "stars_today": 1119,
+          "total_stars": 24910,
+          "language": "Python",
+          "topics": [],
+          "summary": "Maigret 的核心功能是利用用户名从超过 3000 个网站收集个人信息，以生成一份详细的背景调查报告。"
+        },
+        {
+          "full_name": "qbittorrent/qBittorrent",
+          "url": "https://github.com/qbittorrent/qBittorrent",
+          "description": "qBittorrent BitTorrent client",
+          "stars_today": 82,
+          "total_stars": 37065,
+          "language": "C++",
+          "topics": [],
+          "summary": "qBittorrent 是一个免费开源的 BitTorrent 客户端，提供简洁的用户界面、强大的下载管理、RSS 订阅和远程控制等核心功能。"
+        },
+        {
+          "full_name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "stars_today": 496,
+          "total_stars": 19935,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个用于 Claude Desktop、Claude Code、Windsurf 或 Cursor 的 MCP，旨在帮助用户构建 n8n 工作流。"
+        },
+        {
+          "full_name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "stars_today": 548,
+          "total_stars": 3936,
+          "language": "Rust",
+          "topics": [],
+          "summary": "`jcode` 是一个编码代理的框架，旨在提供一个灵活的平台来构建、测试和部署各种编程任务的自动化代理。"
+        },
+        {
+          "full_name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "stars_today": 1189,
+          "total_stars": 92734,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供了一个完整的AI代理系统，其中包含具备不同专业技能、个性和明确交付成果的前端、社区管理和内容注入等专业化AI代理。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 1,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 1,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 10
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48013919,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 298,
+      "created_at": "2026-05-04T19:42:47Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48013919",
+      "summary": "OpenAI 介绍了他们如何通过优化模型架构、高效的推理服务和全球基础设施，实现大规模低延迟的语音人工智能服务。"
+    },
+    {
+      "id": 48012162,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 174,
+      "created_at": "2026-05-04T17:46:32Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48012162",
+      "summary": "Strix 安全团队在一个受美国国防部支持的初创公司中发现了一个影响多租户授权的零日漏洞。"
+    },
+    {
+      "id": 48011904,
+      "title": "Let's talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "score": 142,
+      "created_at": "2026-05-04T17:29:39Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48011904",
+      "summary": "该技术新闻报道的核心内容是关于大型语言模型（LLMs）的讨论。"
+    },
+    {
+      "id": 48010774,
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "score": 111,
+      "created_at": "2026-05-04T16:21:38Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48010774",
+      "summary": "OpenAI、谷歌和微软等科技巨头支持一项法案，旨在为学校提供资金以开展人工智能素养教育。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars_today": 2598,
+      "total_stars": 41561,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "`ruflo` 是一个领先的 Claude 智能体编排平台，用于部署多智能体群，协调自主工作流，并构建企业级、自学习、集成 RAG 和 Claude 代码/Codex 的会话式 AI 系统。"
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 2182,
+      "total_stars": 67648,
+      "language": "Python",
+      "topics": [],
+      "summary": "TauricResearch/TradingAgents 是一个多智能体大型语言模型（LLM）金融交易框架，旨在提供一个集成化的环境来进行复杂的、基于AI的交易策略研究与执行。"
+    },
+    {
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars_today": 320,
+      "total_stars": 2138,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "该仓库提供了一个Claude Agent SDK，其核心功能是集成了一个网页浏览工具，使用户能够构建具备网络信息获取能力的Claude智能体。"
+    },
+    {
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars_today": 1274,
+      "total_stars": 4119,
+      "language": "Rust",
+      "topics": [],
+      "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型编程代理，核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互式编码辅助。"
+    },
+    {
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars_today": 1119,
+      "total_stars": 24910,
+      "language": "Python",
+      "topics": [],
+      "summary": "Maigret 的核心功能是利用用户名从超过 3000 个网站收集个人信息，以生成一份详细的背景调查报告。"
+    },
+    {
+      "full_name": "qbittorrent/qBittorrent",
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "stars_today": 82,
+      "total_stars": 37065,
+      "language": "C++",
+      "topics": [],
+      "summary": "qBittorrent 是一个免费开源的 BitTorrent 客户端，提供简洁的用户界面、强大的下载管理、RSS 订阅和远程控制等核心功能。"
+    },
+    {
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars_today": 496,
+      "total_stars": 19935,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个用于 Claude Desktop、Claude Code、Windsurf 或 Cursor 的 MCP，旨在帮助用户构建 n8n 工作流。"
+    },
+    {
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars_today": 548,
+      "total_stars": 3936,
+      "language": "Rust",
+      "topics": [],
+      "summary": "`jcode` 是一个编码代理的框架，旨在提供一个灵活的平台来构建、测试和部署各种编程任务的自动化代理。"
+    },
+    {
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars_today": 1189,
+      "total_stars": 92734,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供了一个完整的AI代理系统，其中包含具备不同专业技能、个性和明确交付成果的前端、社区管理和内容注入等专业化AI代理。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
