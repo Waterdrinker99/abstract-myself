@@ -1,0 +1,277 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T02:45:33.470841+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "stars_today": 1343,
+          "total_stars": 12037,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了Anthropic在金融服务领域应用的示例代码和资源，核心功能是展示如何利用其模型处理金融数据和任务。"
+        },
+        {
+          "full_name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "stars_today": 5799,
+          "total_stars": 19258,
+          "language": "Rust",
+          "topics": [],
+          "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型代码代理，其核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互式编码辅助。"
+        },
+        {
+          "full_name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "stars_today": 671,
+          "total_stars": 3530,
+          "language": "Python",
+          "topics": [],
+          "summary": "DFlash 的核心功能是利用块扩散（Block Diffusion）技术来加速 Flash 推理过程中的解码效率。"
+        },
+        {
+          "full_name": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+          "stars_today": 460,
+          "total_stars": 8897,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "InsForge 是一个基于 PostgreSQL 的后端，集成了认证、存储、计算、托管和 AI 网关功能，专为编码代理设计。"
+        },
+        {
+          "full_name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+          "stars_today": 559,
+          "total_stars": 6319,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一个本地化、加密的深度研究框架，支持在消费级硬件（如3090）上高效运行大型语言模型（如Qwen3.6-27B），并整合了十多种本地和云端搜索引擎，用于私有文档检索和问答。"
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "stars_today": 3062,
+          "total_stars": 33175,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供了**生产级别的工程技能**，旨在增强AI编码代理的**专业能力和可靠性**。"
+        },
+        {
+          "full_name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "stars_today": 943,
+          "total_stars": 29632,
+          "language": "Python",
+          "topics": [],
+          "summary": "PageIndex 是一个**无向量、基于推理的 RAG 文档索引工具**，其核心功能是**高效地为文档创建可用于推理的索引结构**。"
+        },
+        {
+          "full_name": "vercel-labs/open-agents",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description": "An open source template for building cloud agents.",
+          "stars_today": 131,
+          "total_stars": 5075,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Open Agents 是一个开源模板，用于构建云端智能体，其核心功能是提供一个可扩展的框架来快速开发和部署基于云的自动化代理。"
+        },
+        {
+          "full_name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "stars_today": 900,
+          "total_stars": 15673,
+          "language": "Ruby",
+          "topics": [],
+          "summary": "DocuSeal 是一个开源的 DocuSign 替代品，其核心功能是允许用户创建、填写和签署电子文档。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 24
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48053203,
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 470,
+      "created_at": "2026-05-07T18:46:25Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48053203",
+      "summary": "人工智能生成的内容（AI slop）正在充斥网络，导致在线社区的质量下降并最终使其消亡。"
+    },
+    {
+      "id": 48050540,
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "score": 249,
+      "created_at": "2026-05-07T15:23:23Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48050540",
+      "summary": "由于芯片制造商为生产更多AI芯片而限制供应，主板销量暴跌超过25%，预计未来几年各大厂商的销量都将下滑。"
+    },
+    {
+      "id": 48046397,
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "score": 110,
+      "created_at": "2026-05-07T07:15:11Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48046397",
+      "summary": "Unsloth 与 NVIDIA 合作，通过优化技术显著加速了大型语言模型（LLM）的训练过程。"
+    },
+    {
+      "id": 48053816,
+      "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "score": 110,
+      "created_at": "2026-05-07T19:36:45Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48053816",
+      "summary": "Mozilla 宣布其安全工具 Mythos 发现了 271 个漏洞，且几乎没有误报。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars_today": 1343,
+      "total_stars": 12037,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了Anthropic在金融服务领域应用的示例代码和资源，核心功能是展示如何利用其模型处理金融数据和任务。"
+    },
+    {
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars_today": 5799,
+      "total_stars": 19258,
+      "language": "Rust",
+      "topics": [],
+      "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型代码代理，其核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互式编码辅助。"
+    },
+    {
+      "full_name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars_today": 671,
+      "total_stars": 3530,
+      "language": "Python",
+      "topics": [],
+      "summary": "DFlash 的核心功能是利用块扩散（Block Diffusion）技术来加速 Flash 推理过程中的解码效率。"
+    },
+    {
+      "full_name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "stars_today": 460,
+      "total_stars": 8897,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "InsForge 是一个基于 PostgreSQL 的后端，集成了认证、存储、计算、托管和 AI 网关功能，专为编码代理设计。"
+    },
+    {
+      "full_name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "stars_today": 559,
+      "total_stars": 6319,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一个本地化、加密的深度研究框架，支持在消费级硬件（如3090）上高效运行大型语言模型（如Qwen3.6-27B），并整合了十多种本地和云端搜索引擎，用于私有文档检索和问答。"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 3062,
+      "total_stars": 33175,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供了**生产级别的工程技能**，旨在增强AI编码代理的**专业能力和可靠性**。"
+    },
+    {
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars_today": 943,
+      "total_stars": 29632,
+      "language": "Python",
+      "topics": [],
+      "summary": "PageIndex 是一个**无向量、基于推理的 RAG 文档索引工具**，其核心功能是**高效地为文档创建可用于推理的索引结构**。"
+    },
+    {
+      "full_name": "vercel-labs/open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "stars_today": 131,
+      "total_stars": 5075,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Open Agents 是一个开源模板，用于构建云端智能体，其核心功能是提供一个可扩展的框架来快速开发和部署基于云的自动化代理。"
+    },
+    {
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars_today": 900,
+      "total_stars": 15673,
+      "language": "Ruby",
+      "topics": [],
+      "summary": "DocuSeal 是一个开源的 DocuSign 替代品，其核心功能是允许用户创建、填写和签署电子文档。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
