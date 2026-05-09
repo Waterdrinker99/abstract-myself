@@ -1,0 +1,250 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T02:40:00.638443+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "stars_today": 3660,
+          "total_stars": 15419,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了Anthropic在金融服务领域应用的示例代码和资源，核心功能是展示如何利用其模型解决金融相关任务。"
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "stars_today": 1893,
+          "total_stars": 35620,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供生产级别的工程技能，旨在增强 AI 编码代理的能力。"
+        },
+        {
+          "full_name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "stars_today": 3731,
+          "total_stars": 21979,
+          "language": "Rust",
+          "topics": [],
+          "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型代码代理，核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互式编程。"
+        },
+        {
+          "full_name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "stars_today": 379,
+          "total_stars": 3868,
+          "language": "Python",
+          "topics": [],
+          "summary": "DFlash 是一个用于闪存推测解码的块扩散（Block Diffusion）项目，旨在提高解码效率。"
+        },
+        {
+          "full_name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "stars_today": 1052,
+          "total_stars": 5678,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "9router是一个免费的AI编程工具，它通过连接Claude Code、Codex、Copilot等40多个提供商，实现无限次免费AI编程，并具备自动故障转移和降低40%Token消耗的功能。"
+        },
+        {
+          "full_name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "stars_today": 526,
+          "total_stars": 3143,
+          "language": "Python",
+          "topics": [],
+          "summary": "CloakBrowser 是一个隐秘的 Chromium 浏览器，提供与 Playwright 兼容的无缝替换，通过源代码级别的指纹修复，能通过所有机器人检测测试。"
+        },
+        {
+          "full_name": "awslabs/aidlc-workflows",
+          "url": "https://github.com/awslabs/aidlc-workflows",
+          "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+          "stars_today": 58,
+          "total_stars": 1786,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了由AI驱动的生命周期（AI-DLC）自适应工作流控制规则，用于指导AI编码代理的执行流程。"
+        },
+        {
+          "full_name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "stars_today": 202,
+          "total_stars": 14707,
+          "language": "Python",
+          "topics": [],
+          "summary": "AI-Trader 是一个完全自动化的、基于智能体（Agent-Native）的交易系统，旨在实现全自动化的金融市场交易。"
+        },
+        {
+          "full_name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+          "stars_today": 559,
+          "total_stars": 6769,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一个本地化、加密的深度研究平台，核心功能是支持在本地设备上高效运行和测试包括Qwen3.6-27B在内的各类本地及云端大语言模型，并集成十余种搜索引擎（如arXiv、PubMed及私有文档）进行检索问答。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 34
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48066524,
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 256,
+      "created_at": "2026-05-08T17:55:08Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48066524",
+      "summary": "人工智能正在打破传统上对漏洞的两种文化：即“漏洞是不可避免的”和“漏洞是需要被隐藏的”。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars_today": 3660,
+      "total_stars": 15419,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了Anthropic在金融服务领域应用的示例代码和资源，核心功能是展示如何利用其模型解决金融相关任务。"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 1893,
+      "total_stars": 35620,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供生产级别的工程技能，旨在增强 AI 编码代理的能力。"
+    },
+    {
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars_today": 3731,
+      "total_stars": 21979,
+      "language": "Rust",
+      "topics": [],
+      "summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型代码代理，核心功能是提供一个命令行界面来与 DeepSeek 模型进行交互式编程。"
+    },
+    {
+      "full_name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars_today": 379,
+      "total_stars": 3868,
+      "language": "Python",
+      "topics": [],
+      "summary": "DFlash 是一个用于闪存推测解码的块扩散（Block Diffusion）项目，旨在提高解码效率。"
+    },
+    {
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars_today": 1052,
+      "total_stars": 5678,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "9router是一个免费的AI编程工具，它通过连接Claude Code、Codex、Copilot等40多个提供商，实现无限次免费AI编程，并具备自动故障转移和降低40%Token消耗的功能。"
+    },
+    {
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 526,
+      "total_stars": 3143,
+      "language": "Python",
+      "topics": [],
+      "summary": "CloakBrowser 是一个隐秘的 Chromium 浏览器，提供与 Playwright 兼容的无缝替换，通过源代码级别的指纹修复，能通过所有机器人检测测试。"
+    },
+    {
+      "full_name": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "stars_today": 58,
+      "total_stars": 1786,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了由AI驱动的生命周期（AI-DLC）自适应工作流控制规则，用于指导AI编码代理的执行流程。"
+    },
+    {
+      "full_name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars_today": 202,
+      "total_stars": 14707,
+      "language": "Python",
+      "topics": [],
+      "summary": "AI-Trader 是一个完全自动化的、基于智能体（Agent-Native）的交易系统，旨在实现全自动化的金融市场交易。"
+    },
+    {
+      "full_name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "stars_today": 559,
+      "total_stars": 6769,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一个本地化、加密的深度研究平台，核心功能是支持在本地设备上高效运行和测试包括Qwen3.6-27B在内的各类本地及云端大语言模型，并集成十余种搜索引擎（如arXiv、PubMed及私有文档）进行检索问答。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
