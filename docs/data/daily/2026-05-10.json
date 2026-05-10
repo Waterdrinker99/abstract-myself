@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T02:44:46.582812+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "stars_today": 3281,
+          "total_stars": 17503,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了Anthropic在金融服务领域的研究、工具和最佳实践，旨在推动负责任的AI在金融应用中的发展。"
+        },
+        {
+          "full_name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "stars_today": 552,
+          "total_stars": 31460,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 智能体堆栈，核心功能是连接前沿 AI 模型与智能体基础设施。"
+        },
+        {
+          "full_name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "stars_today": 533,
+          "total_stars": 3491,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个基于真实世界基准测试的、用于AI编程代理的持久化内存解决方案。"
+        },
+        {
+          "full_name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "stars_today": 1197,
+          "total_stars": 45739,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一个从零开始的智能体（Agent）原理与实践教程，旨在帮助用户系统学习和构建智能体。"
+        },
+        {
+          "full_name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+          "stars_today": 294,
+          "total_stars": 8571,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "**Easy-Vibe 是一个面向初学者的现代编程课程，旨在帮助学习者逐步掌握编程技能，实现“vibe 编程 2026”的目标。**"
+        },
+        {
+          "full_name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "stars_today": 144,
+          "total_stars": 13813,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Rowboat 是一个开源的 AI 同事项目，其核心功能是提供具备记忆能力的智能协作支持。"
+        },
+        {
+          "full_name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "stars_today": 107,
+          "total_stars": 38852,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了用于编码代理的 Chrome 开发者工具集成，核心功能是增强和支持自动化代码交互与调试。"
+        },
+        {
+          "full_name": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+          "stars_today": 597,
+          "total_stars": 2577,
+          "language": "Go",
+          "topics": [],
+          "summary": "MasterDnsVPN是一个先进的DNS隧道VPN，旨在绕过审查，通过低开销ARQ、解析器负载均衡和高丢包稳定性优化，提供超越DNSTT和SlipStream的性能。"
+        },
+        {
+          "full_name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description": "3D Gaussian Splat Editor",
+          "stars_today": 514,
+          "total_stars": 6345,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Supersplat 是一个 3D 高斯溅射（Gaussian Splatting）编辑器，其核心功能是提供一个用于创建、编辑和可视化高斯溅射场景的工具集。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 12
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48073246,
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "score": 363,
+      "created_at": "2026-05-09T08:44:34Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48073246",
+      "summary": "大型语言模型在被委托处理文档时，可能会导致文档内容被错误地修改或损坏。"
+    },
+    {
+      "id": 48077126,
+      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "score": 308,
+      "created_at": "2026-05-09T18:33:36Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48077126",
+      "summary": "元宇宙公司Meta大力推行人工智能战略，导致员工士气低落，工作环境令人不快。"
+    },
+    {
+      "id": 48072720,
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "score": 179,
+      "created_at": "2026-05-09T07:23:40Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48072720",
+      "summary": "曾经客户都要求制作轮播图，但现在他们的需求已经转向了人工智能聊天机器人。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars_today": 3281,
+      "total_stars": 17503,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了Anthropic在金融服务领域的研究、工具和最佳实践，旨在推动负责任的AI在金融应用中的发展。"
+    },
+    {
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars_today": 552,
+      "total_stars": 31460,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 智能体堆栈，核心功能是连接前沿 AI 模型与智能体基础设施。"
+    },
+    {
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 533,
+      "total_stars": 3491,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个基于真实世界基准测试的、用于AI编程代理的持久化内存解决方案。"
+    },
+    {
+      "full_name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars_today": 1197,
+      "total_stars": 45739,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一个从零开始的智能体（Agent）原理与实践教程，旨在帮助用户系统学习和构建智能体。"
+    },
+    {
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "stars_today": 294,
+      "total_stars": 8571,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "**Easy-Vibe 是一个面向初学者的现代编程课程，旨在帮助学习者逐步掌握编程技能，实现“vibe 编程 2026”的目标。**"
+    },
+    {
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars_today": 144,
+      "total_stars": 13813,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Rowboat 是一个开源的 AI 同事项目，其核心功能是提供具备记忆能力的智能协作支持。"
+    },
+    {
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars_today": 107,
+      "total_stars": 38852,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了用于编码代理的 Chrome 开发者工具集成，核心功能是增强和支持自动化代码交互与调试。"
+    },
+    {
+      "full_name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars_today": 597,
+      "total_stars": 2577,
+      "language": "Go",
+      "topics": [],
+      "summary": "MasterDnsVPN是一个先进的DNS隧道VPN，旨在绕过审查，通过低开销ARQ、解析器负载均衡和高丢包稳定性优化，提供超越DNSTT和SlipStream的性能。"
+    },
+    {
+      "full_name": "playcanvas/supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "stars_today": 514,
+      "total_stars": 6345,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Supersplat 是一个 3D 高斯溅射（Gaussian Splatting）编辑器，其核心功能是提供一个用于创建、编辑和可视化高斯溅射场景的工具集。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
