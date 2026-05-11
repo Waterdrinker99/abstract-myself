@@ -1,0 +1,277 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T02:54:17.437992+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "stars_today": 669,
+          "total_stars": 32255,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 智能体堆栈，旨在连接前沿 AI 模型与智能体基础设施。"
+        },
+        {
+          "full_name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "stars_today": 1449,
+          "total_stars": 19037,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了Anthropic在金融服务领域应用其大型语言模型（LLM）的示例、工具和最佳实践，旨在帮助开发者构建安全、可靠的金融AI应用。"
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "stars_today": 1065,
+          "total_stars": 38601,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供了**生产级别的工程技能**，旨在增强AI编码代理的**实际编码和解决问题的能力**。"
+        },
+        {
+          "full_name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "stars_today": 496,
+          "total_stars": 4878,
+          "language": "Python",
+          "topics": [],
+          "summary": "CloakBrowser 是一个隐秘的 Chromium 浏览器，它通过源代码级别的指纹修复，能通过所有机器人检测测试，可作为 Playwright 的直接替代品。"
+        },
+        {
+          "full_name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "stars_today": 163,
+          "total_stars": 15663,
+          "language": "Python",
+          "topics": [],
+          "summary": "AI-Trader 是一个完全自动化的、基于智能体（Agent-Native）的交易系统，旨在实现全自动的金融市场交易。"
+        },
+        {
+          "full_name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "stars_today": 185,
+          "total_stars": 13351,
+          "language": "Python",
+          "topics": [],
+          "summary": "omlx 是一个专为 Apple Silicon 设计的 LLM 推理服务器，提供连续批处理和 SSD 缓存功能，并通过 macOS 菜单栏进行管理。"
+        },
+        {
+          "full_name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+          "stars_today": 635,
+          "total_stars": 9266,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "Easy-Vibe 是一个面向初学者的现代编程课程，旨在帮助用户逐步掌握编程技能，核心功能是提供一个易于上手的、现代化的编程学习路径。"
+        },
+        {
+          "full_name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description": "3D Gaussian Splat Editor",
+          "stars_today": 579,
+          "total_stars": 6869,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Supersplat 是一个 3D 高斯溅射编辑器，用于创建和编辑高斯溅射场景。"
+        },
+        {
+          "full_name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "stars_today": 174,
+          "total_stars": 10574,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一个自我进化的通用智能体，它能从一个小型种子代码库开始成长技能树，并以六分之一的令牌消耗实现对完整系统的控制。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 13
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48085821,
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 653,
+      "created_at": "2026-05-10T17:19:28Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48085821",
+      "summary": "本地AI应成为常态，以增强隐私、控制和去中心化。"
+    },
+    {
+      "id": 48081469,
+      "title": "Task Paralysis and AI",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "score": 203,
+      "created_at": "2026-05-10T06:20:50Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48081469",
+      "summary": "人工智能的普及可能导致用户因选择过多或不确定性而陷入“任务瘫痪”的困境。"
+    },
+    {
+      "id": 48088151,
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "score": 165,
+      "created_at": "2026-05-10T21:16:58Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48088151",
+      "summary": "马里兰州居民被要求承担20亿美元的电网升级费用，以支持州外的AI数据中心，州政府对此表示不满并向联邦能源监管机构投诉。"
+    },
+    {
+      "id": 48080702,
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "score": 145,
+      "created_at": "2026-05-10T03:22:02Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48080702",
+      "summary": "Gemini API 的文件搜索功能现已支持多模态检索增强生成（RAG），能更好地处理和理解混合类型的文件内容。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars_today": 669,
+      "total_stars": 32255,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 智能体堆栈，旨在连接前沿 AI 模型与智能体基础设施。"
+    },
+    {
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars_today": 1449,
+      "total_stars": 19037,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了Anthropic在金融服务领域应用其大型语言模型（LLM）的示例、工具和最佳实践，旨在帮助开发者构建安全、可靠的金融AI应用。"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 1065,
+      "total_stars": 38601,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供了**生产级别的工程技能**，旨在增强AI编码代理的**实际编码和解决问题的能力**。"
+    },
+    {
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 496,
+      "total_stars": 4878,
+      "language": "Python",
+      "topics": [],
+      "summary": "CloakBrowser 是一个隐秘的 Chromium 浏览器，它通过源代码级别的指纹修复，能通过所有机器人检测测试，可作为 Playwright 的直接替代品。"
+    },
+    {
+      "full_name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars_today": 163,
+      "total_stars": 15663,
+      "language": "Python",
+      "topics": [],
+      "summary": "AI-Trader 是一个完全自动化的、基于智能体（Agent-Native）的交易系统，旨在实现全自动的金融市场交易。"
+    },
+    {
+      "full_name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars_today": 185,
+      "total_stars": 13351,
+      "language": "Python",
+      "topics": [],
+      "summary": "omlx 是一个专为 Apple Silicon 设计的 LLM 推理服务器，提供连续批处理和 SSD 缓存功能，并通过 macOS 菜单栏进行管理。"
+    },
+    {
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "stars_today": 635,
+      "total_stars": 9266,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "Easy-Vibe 是一个面向初学者的现代编程课程，旨在帮助用户逐步掌握编程技能，核心功能是提供一个易于上手的、现代化的编程学习路径。"
+    },
+    {
+      "full_name": "playcanvas/supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "stars_today": 579,
+      "total_stars": 6869,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Supersplat 是一个 3D 高斯溅射编辑器，用于创建和编辑高斯溅射场景。"
+    },
+    {
+      "full_name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars_today": 174,
+      "total_stars": 10574,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一个自我进化的通用智能体，它能从一个小型种子代码库开始成长技能树，并以六分之一的令牌消耗实现对完整系统的控制。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
