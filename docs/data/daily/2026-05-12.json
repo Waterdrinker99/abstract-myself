@@ -1,0 +1,304 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T02:46:17.029097+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "stars_today": 956,
+          "total_stars": 33085,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 智能体堆栈，核心功能是连接前沿 AI 模型与智能体基础设施。"
+        },
+        {
+          "full_name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "stars_today": 1320,
+          "total_stars": 6336,
+          "language": "Python",
+          "topics": [],
+          "summary": "CloakBrowser 是一个隐形 Chromium 浏览器，通过源代码级别的指纹修补，可完全绕过所有机器人检测测试，是 Playwright 的直接替代品。"
+        },
+        {
+          "full_name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "stars_today": 427,
+          "total_stars": 10929,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该GitHub仓库的核心功能是提供一个平台或框架，使用人工智能技术使用户能够实现“以AI创收”的目标。"
+        },
+        {
+          "full_name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description": "3D Gaussian Splat Editor",
+          "stars_today": 531,
+          "total_stars": 7404,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "Supersplat 是一个 3D 高斯溅射编辑器，用于创建和编辑高斯溅射场景。"
+        },
+        {
+          "full_name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+          "stars_today": 812,
+          "total_stars": 10005,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "Easy-Vibe 是一个面向初学者的现代化编程课程，旨在帮助用户逐步掌握编程技能，实现“vibe coding 2026”的目标。"
+        },
+        {
+          "full_name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "stars_today": 941,
+          "total_stars": 8445,
+          "language": "JavaScript",
+          "topics": [],
+          "summary": "9router是一个**免费的AI编程聚合工具**，它连接Claude Code、Codex、Copilot等多种AI模型，通过40多个提供商提供**无限次免费使用**，并具备**自动故障转移和降低Token成本**的功能。"
+        },
+        {
+          "full_name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "stars_today": 366,
+          "total_stars": 1566,
+          "language": "Rust",
+          "topics": [],
+          "summary": "**核心功能与关键特性：**\n\nOpenHuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+        },
+        {
+          "full_name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description": "Your agent writes bad React. This catches it",
+          "stars_today": 212,
+          "total_stars": 8126,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是充当一个“医生”代理，用于捕获和指出由代理编写的、存在问题的 React 代码。"
+        },
+        {
+          "full_name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "stars_today": 422,
+          "total_stars": 37369,
+          "language": "Jupyter Notebook",
+          "topics": [],
+          "summary": "该仓库是《动手学大模型Dive into LLMs》系列教程的配套编程实践代码，旨在帮助用户通过动手实践深入理解大型语言模型。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 12
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48093043,
+      "title": "A.I. note takers are making lawyers nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "score": 235,
+      "created_at": "2026-05-11T10:04:47Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48093043",
+      "summary": "人工智能笔记工具的兴起正令律师们因潜在的法律风险而感到不安。"
+    },
+    {
+      "id": 48100433,
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 198,
+      "created_at": "2026-05-11T20:45:55Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48100433",
+      "summary": "随着AI能编写代码，作者探讨了在AI辅助编程时代，继续使用Python作为主要语言的必要性和理由。"
+    },
+    {
+      "id": 48096674,
+      "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+      "score": 154,
+      "created_at": "2026-05-11T15:53:23Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48096674",
+      "summary": "佛罗里达大学的毕业典礼上，一位将人工智能称为“下一场工业革命”的演讲者遭到了学生们的嘘声。"
+    },
+    {
+      "id": 48094641,
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "score": 123,
+      "created_at": "2026-05-11T13:20:14Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48094641",
+      "summary": "谷歌称犯罪黑客利用人工智能发现了一个重大的软件漏洞。"
+    },
+    {
+      "id": 48097078,
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "score": 116,
+      "created_at": "2026-05-11T16:22:31Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48097078",
+      "summary": "Interfaze 是一种专为大规模部署设计的新型模型架构，旨在实现高准确性。"
+    },
+    {
+      "id": 48100524,
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "score": 103,
+      "created_at": "2026-05-11T20:53:37Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48100524",
+      "summary": "该技术新闻探讨了**交互模型**，可能涉及人工智能或人机交互领域中的不同设计和实现方式。"
+    },
+    {
+      "id": 48093446,
+      "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "score": 101,
+      "created_at": "2026-05-11T11:05:04Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48093446",
+      "summary": "好莱坞的电视制作人员正纷纷转向训练人工智能，这反映了行业内对AI技术应用的日益重视。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars_today": 956,
+      "total_stars": 33085,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 智能体堆栈，核心功能是连接前沿 AI 模型与智能体基础设施。"
+    },
+    {
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 1320,
+      "total_stars": 6336,
+      "language": "Python",
+      "topics": [],
+      "summary": "CloakBrowser 是一个隐形 Chromium 浏览器，通过源代码级别的指纹修补，可完全绕过所有机器人检测测试，是 Playwright 的直接替代品。"
+    },
+    {
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars_today": 427,
+      "total_stars": 10929,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该GitHub仓库的核心功能是提供一个平台或框架，使用人工智能技术使用户能够实现“以AI创收”的目标。"
+    },
+    {
+      "full_name": "playcanvas/supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "stars_today": 531,
+      "total_stars": 7404,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "Supersplat 是一个 3D 高斯溅射编辑器，用于创建和编辑高斯溅射场景。"
+    },
+    {
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "stars_today": 812,
+      "total_stars": 10005,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "Easy-Vibe 是一个面向初学者的现代化编程课程，旨在帮助用户逐步掌握编程技能，实现“vibe coding 2026”的目标。"
+    },
+    {
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars_today": 941,
+      "total_stars": 8445,
+      "language": "JavaScript",
+      "topics": [],
+      "summary": "9router是一个**免费的AI编程聚合工具**，它连接Claude Code、Codex、Copilot等多种AI模型，通过40多个提供商提供**无限次免费使用**，并具备**自动故障转移和降低Token成本**的功能。"
+    },
+    {
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 366,
+      "total_stars": 1566,
+      "language": "Rust",
+      "topics": [],
+      "summary": "**核心功能与关键特性：**\n\nOpenHuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+    },
+    {
+      "full_name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "stars_today": 212,
+      "total_stars": 8126,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是充当一个“医生”代理，用于捕获和指出由代理编写的、存在问题的 React 代码。"
+    },
+    {
+      "full_name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars_today": 422,
+      "total_stars": 37369,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": "该仓库是《动手学大模型Dive into LLMs》系列教程的配套编程实践代码，旨在帮助用户通过动手实践深入理解大型语言模型。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
