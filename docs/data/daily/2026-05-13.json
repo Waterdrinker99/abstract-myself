@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T02:53:52.271270+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "stars_today": 1014,
+          "total_stars": 2895,
+          "language": "Rust",
+          "topics": [],
+          "summary": "**核心功能与关键特性：** OpenHuman是一个私密、简洁且极其强大的个人AI超级智能，旨在成为用户的个人AI助手。"
+        },
+        {
+          "full_name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "stars_today": 1048,
+          "total_stars": 6021,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是为 AI 编程代理提供基于真实世界基准测试的持久化记忆能力。"
+        },
+        {
+          "full_name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "stars_today": 1606,
+          "total_stars": 8037,
+          "language": "Python",
+          "topics": [],
+          "summary": "CloakBrowser 是一个隐形的 Chromium 浏览器，作为 Playwright 的即插即用替代品，通过源码级别的指纹修复，能通过所有（30/30）机器人检测测试。"
+        },
+        {
+          "full_name": "apernet/hysteria",
+          "url": "https://github.com/apernet/hysteria",
+          "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+          "stars_today": 51,
+          "total_stars": 20277,
+          "language": "Go",
+          "topics": [],
+          "summary": "Hysteria 是一个强大、极速且抗审查的代理工具。"
+        },
+        {
+          "full_name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "stars_today": 3867,
+          "total_stars": 76413,
+          "language": "Shell",
+          "topics": [],
+          "summary": "该仓库提供了作者从其 `.claude` 目录中提取的、面向真实工程师的技能清单。"
+        },
+        {
+          "full_name": "anonfaded/FadCam",
+          "url": "https://github.com/anonfaded/FadCam",
+          "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+          "stars_today": 116,
+          "total_stars": 2250,
+          "language": "Java",
+          "topics": [],
+          "summary": "FadCam 是一个开源、无广告的安卓多媒体录制应用，核心功能包括后台录像、屏幕录制、直播以及远程控制摄像头。"
+        },
+        {
+          "full_name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description": "Your agent writes bad React. This catches it",
+          "stars_today": 788,
+          "total_stars": 8812,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是充当一个“医生”代理，用于捕获和指出 React 代码中不规范或“写得不好”的部分。"
+        },
+        {
+          "full_name": "rasbt/LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "stars_today": 772,
+          "total_stars": 93876,
+          "language": "Jupyter Notebook",
+          "topics": [],
+          "summary": "该仓库旨在通过 PyTorch 从零开始，逐步实现一个类似 ChatGPT 的大型语言模型。"
+        },
+        {
+          "full_name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "stars_today": 599,
+          "total_stars": 48360,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库是DataWhaleChina推出的《从零开始构建智能体》教程，旨在提供从零基础开始的智能体（Agent）原理与实践的系统性学习资源。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 1,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 1,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 134
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48111896,
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 297,
+      "created_at": "2026-05-12T18:03:11Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48111896",
+      "summary": "一个名为 Needle 的项目，成功地将 Gemini 的工具调用能力提炼到了一个仅有 2600 万参数的小型模型中。"
+    },
+    {
+      "id": 48110529,
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "score": 211,
+      "created_at": "2026-05-12T16:29:21Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48110529",
+      "summary": "亚马逊员工因使用AI工具的压力而采取“代币最大化”行为，以应对绩效评估中的量化要求。"
+    },
+    {
+      "id": 48111581,
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "score": 154,
+      "created_at": "2026-05-12T17:40:13Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48111581",
+      "summary": "谷歌DeepMind正在探索为人工智能时代重新设计鼠标指针，以增强人机交互和效率。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 1014,
+      "total_stars": 2895,
+      "language": "Rust",
+      "topics": [],
+      "summary": "**核心功能与关键特性：** OpenHuman是一个私密、简洁且极其强大的个人AI超级智能，旨在成为用户的个人AI助手。"
+    },
+    {
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 1048,
+      "total_stars": 6021,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是为 AI 编程代理提供基于真实世界基准测试的持久化记忆能力。"
+    },
+    {
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 1606,
+      "total_stars": 8037,
+      "language": "Python",
+      "topics": [],
+      "summary": "CloakBrowser 是一个隐形的 Chromium 浏览器，作为 Playwright 的即插即用替代品，通过源码级别的指纹修复，能通过所有（30/30）机器人检测测试。"
+    },
+    {
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "stars_today": 51,
+      "total_stars": 20277,
+      "language": "Go",
+      "topics": [],
+      "summary": "Hysteria 是一个强大、极速且抗审查的代理工具。"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 3867,
+      "total_stars": 76413,
+      "language": "Shell",
+      "topics": [],
+      "summary": "该仓库提供了作者从其 `.claude` 目录中提取的、面向真实工程师的技能清单。"
+    },
+    {
+      "full_name": "anonfaded/FadCam",
+      "url": "https://github.com/anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "stars_today": 116,
+      "total_stars": 2250,
+      "language": "Java",
+      "topics": [],
+      "summary": "FadCam 是一个开源、无广告的安卓多媒体录制应用，核心功能包括后台录像、屏幕录制、直播以及远程控制摄像头。"
+    },
+    {
+      "full_name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "stars_today": 788,
+      "total_stars": 8812,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是充当一个“医生”代理，用于捕获和指出 React 代码中不规范或“写得不好”的部分。"
+    },
+    {
+      "full_name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars_today": 772,
+      "total_stars": 93876,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "summary": "该仓库旨在通过 PyTorch 从零开始，逐步实现一个类似 ChatGPT 的大型语言模型。"
+    },
+    {
+      "full_name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars_today": 599,
+      "total_stars": 48360,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库是DataWhaleChina推出的《从零开始构建智能体》教程，旨在提供从零基础开始的智能体（Agent）原理与实践的系统性学习资源。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
