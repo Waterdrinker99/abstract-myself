@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T02:53:58.213451+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "stars_today": 1696,
+          "total_stars": 5789,
+          "language": "Rust",
+          "topics": [],
+          "summary": "**核心功能与关键特性：**\n\nOpenHuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+        },
+        {
+          "full_name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "stars_today": 1379,
+          "total_stars": 7821,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个基于真实世界基准测试的、用于AI编程代理的持久化记忆系统。"
+        },
+        {
+          "full_name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars_today": 1401,
+          "total_stars": 189705,
+          "language": "Shell",
+          "topics": [],
+          "summary": "Superpowers 是一个实用的、可行的、面向软件开发的代理技能框架和方法论。"
+        },
+        {
+          "full_name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "stars_today": 981,
+          "total_stars": 13041,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "AiToEarn 的核心功能是利用人工智能技术赋能用户实现“以 AI 创收”的实践。"
+        },
+        {
+          "full_name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "stars_today": 13,
+          "total_stars": 17030,
+          "language": "Go",
+          "topics": [],
+          "summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及任意数据的代理程序。"
+        },
+        {
+          "full_name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description": "Your agent writes bad React. This catches it",
+          "stars_today": 604,
+          "total_stars": 9323,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库的核心功能是充当一个“医生”代理，专门用于检测和捕获代码中不规范或“坏的”React 实践。"
+        },
+        {
+          "full_name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "stars_today": 99,
+          "total_stars": 21201,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一套即用型的智能体技能，专为研究、科学、工程、分析、金融和写作等领域设计。"
+        },
+        {
+          "full_name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "stars_today": 435,
+          "total_stars": 13423,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个代理式人工智能基础设施，旨在通过增强人类能力来放大个体效能。"
+        },
+        {
+          "full_name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "stars_today": 859,
+          "total_stars": 4439,
+          "language": "Swift",
+          "topics": [],
+          "summary": "Supertonic是一个超快速、设备端、多语言的文本转语音（TTS）引擎，通过ONNX原生运行。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 1,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 1,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 12
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48128003,
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "url": "",
+      "score": 189,
+      "created_at": "2026-05-13T21:40:18Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48128003",
+      "summary": "一位用户在退订 Claude 服务后，失去了对其所有项目的访问权限，并提醒其他人不要使用 Claude Design。"
+    },
+    {
+      "id": 48121929,
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "score": 167,
+      "created_at": "2026-05-13T13:53:53Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48121929",
+      "summary": "美国在人工智能竞赛中，尤其是在商业化应用方面占据领先地位。"
+    },
+    {
+      "id": 48126981,
+      "title": "Meta won't let you block its AI account on Threads",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "score": 124,
+      "created_at": "2026-05-13T20:22:21Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48126981",
+      "summary": "Meta 禁止用户在 Threads 上屏蔽其 AI 账号。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 1696,
+      "total_stars": 5789,
+      "language": "Rust",
+      "topics": [],
+      "summary": "**核心功能与关键特性：**\n\nOpenHuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+    },
+    {
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 1379,
+      "total_stars": 7821,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个基于真实世界基准测试的、用于AI编程代理的持久化记忆系统。"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars_today": 1401,
+      "total_stars": 189705,
+      "language": "Shell",
+      "topics": [],
+      "summary": "Superpowers 是一个实用的、可行的、面向软件开发的代理技能框架和方法论。"
+    },
+    {
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars_today": 981,
+      "total_stars": 13041,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "AiToEarn 的核心功能是利用人工智能技术赋能用户实现“以 AI 创收”的实践。"
+    },
+    {
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars_today": 13,
+      "total_stars": 17030,
+      "language": "Go",
+      "topics": [],
+      "summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及任意数据的代理程序。"
+    },
+    {
+      "full_name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "stars_today": 604,
+      "total_stars": 9323,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库的核心功能是充当一个“医生”代理，专门用于检测和捕获代码中不规范或“坏的”React 实践。"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars_today": 99,
+      "total_stars": 21201,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一套即用型的智能体技能，专为研究、科学、工程、分析、金融和写作等领域设计。"
+    },
+    {
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars_today": 435,
+      "total_stars": 13423,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个代理式人工智能基础设施，旨在通过增强人类能力来放大个体效能。"
+    },
+    {
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars_today": 859,
+      "total_stars": 4439,
+      "language": "Swift",
+      "topics": [],
+      "summary": "Supertonic是一个超快速、设备端、多语言的文本转语音（TTS）引擎，通过ONNX原生运行。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
