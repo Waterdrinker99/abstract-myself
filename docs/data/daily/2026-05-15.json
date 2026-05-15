@@ -1,0 +1,304 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T02:55:21.026504+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "stars_today": 1715,
+          "total_stars": 56182,
+          "language": "Rust",
+          "topics": [],
+          "summary": "RuView 的核心功能是利用商品级 WiFi 信号，实时生成空间智能、生命体征监测和存在检测，全程无需任何视频像素。"
+        },
+        {
+          "full_name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "stars_today": 3329,
+          "total_stars": 7891,
+          "language": "Rust",
+          "topics": [],
+          "summary": "**核心功能与关键特性：** openhuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+        },
+        {
+          "full_name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "stars_today": 1879,
+          "total_stars": 9062,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该项目提供了一个基于真实世界基准测试的、用于AI编程代理的持久化记忆系统。"
+        },
+        {
+          "full_name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars_today": 1780,
+          "total_stars": 191381,
+          "language": "Shell",
+          "topics": [],
+          "summary": "这是一个实用的**代理技能框架和软件开发方法论**，旨在提供一个行之有效的工作流程。"
+        },
+        {
+          "full_name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "stars_today": 654,
+          "total_stars": 21864,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一套即用型的智能体技能包，旨在赋能研究、科学、工程、分析、金融和写作等领域的自动化任务。"
+        },
+        {
+          "full_name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "stars_today": 363,
+          "total_stars": 24875,
+          "language": "Python",
+          "topics": [],
+          "summary": "Kronos 是一个金融市场语言的基础模型，旨在理解和处理金融领域的专业文本和数据。"
+        },
+        {
+          "full_name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "stars_today": 83,
+          "total_stars": 38923,
+          "language": "Python",
+          "topics": [],
+          "summary": "Supervision 是一个提供可重用计算机视觉工具的 Python 库，其核心功能是简化和标准化计算机视觉任务中的数据处理、标注和模型评估等流程。"
+        },
+        {
+          "full_name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "stars_today": 215,
+          "total_stars": 17235,
+          "language": "Go",
+          "topics": [],
+          "summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及任意数据的代理。"
+        },
+        {
+          "full_name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "stars_today": 1128,
+          "total_stars": 5413,
+          "language": "Swift",
+          "topics": [],
+          "summary": "Supertonic 是一个超快速、设备端的多语言文本转语音（TTS）引擎，通过 ONNX 原生运行。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 13
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48137145,
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 499,
+      "created_at": "2026-05-14T15:47:31Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48137145",
+      "summary": "该文章探讨了使用配备 RTX 5090 显卡的 eGPU 连接到 M4 MacBook Air 进行游戏的可行性和性能表现。"
+    },
+    {
+      "id": 48139148,
+      "title": "AI is making me dumb",
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "score": 440,
+      "created_at": "2026-05-14T18:19:28Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48139148",
+      "summary": "这篇科技新闻探讨了人工智能（AI）的普及和使用，可能正在削弱人类的认知能力和独立思考能力。"
+    },
+    {
+      "id": 48136240,
+      "title": "Bitcoin trader recovers wallet with help of Claude",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "score": 318,
+      "created_at": "2026-05-14T14:49:48Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48136240",
+      "summary": "一位比特币交易员利用Claude AI的帮助，成功找回了丢失了11年的钱包密码，最终解密了价值40万美元的加密货币。"
+    },
+    {
+      "id": 48134429,
+      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+      "score": 193,
+      "created_at": "2026-05-14T12:27:29Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48134429",
+      "summary": "共和党人正在审查山姆·阿尔特曼的商业交易，尤其是在OpenAI即将进行首次公开募股（IPO）的背景下。"
+    },
+    {
+      "id": 48135782,
+      "title": "Meta's New Reality: Record High Profits. Record Low Morale",
+      "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+      "score": 174,
+      "created_at": "2026-05-14T14:17:12Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48135782",
+      "summary": "尽管Meta实现了创纪录的利润，但公司内部士气低落，裁员和对AI的关注加剧了员工的负面情绪。"
+    },
+    {
+      "id": 48139355,
+      "title": "The AI Zombification of Universities",
+      "url": "https://www.thenewcritic.com/p/the-great-zombification",
+      "score": 171,
+      "created_at": "2026-05-14T18:37:08Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48139355",
+      "summary": "该新闻报道探讨了人工智能（AI）对大学教育的冲击，暗示AI正在使大学教育变得僵化和缺乏活力。"
+    },
+    {
+      "id": 48142188,
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "score": 131,
+      "created_at": "2026-05-14T22:37:40Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48142188",
+      "summary": "安大略省审计师发现，医生使用的AI笔记工具经常在基本事实记录上出错。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 1715,
+      "total_stars": 56182,
+      "language": "Rust",
+      "topics": [],
+      "summary": "RuView 的核心功能是利用商品级 WiFi 信号，实时生成空间智能、生命体征监测和存在检测，全程无需任何视频像素。"
+    },
+    {
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 3329,
+      "total_stars": 7891,
+      "language": "Rust",
+      "topics": [],
+      "summary": "**核心功能与关键特性：** openhuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+    },
+    {
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 1879,
+      "total_stars": 9062,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该项目提供了一个基于真实世界基准测试的、用于AI编程代理的持久化记忆系统。"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars_today": 1780,
+      "total_stars": 191381,
+      "language": "Shell",
+      "topics": [],
+      "summary": "这是一个实用的**代理技能框架和软件开发方法论**，旨在提供一个行之有效的工作流程。"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars_today": 654,
+      "total_stars": 21864,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一套即用型的智能体技能包，旨在赋能研究、科学、工程、分析、金融和写作等领域的自动化任务。"
+    },
+    {
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 363,
+      "total_stars": 24875,
+      "language": "Python",
+      "topics": [],
+      "summary": "Kronos 是一个金融市场语言的基础模型，旨在理解和处理金融领域的专业文本和数据。"
+    },
+    {
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars_today": 83,
+      "total_stars": 38923,
+      "language": "Python",
+      "topics": [],
+      "summary": "Supervision 是一个提供可重用计算机视觉工具的 Python 库，其核心功能是简化和标准化计算机视觉任务中的数据处理、标注和模型评估等流程。"
+    },
+    {
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars_today": 215,
+      "total_stars": 17235,
+      "language": "Go",
+      "topics": [],
+      "summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及任意数据的代理。"
+    },
+    {
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars_today": 1128,
+      "total_stars": 5413,
+      "language": "Swift",
+      "topics": [],
+      "summary": "Supertonic 是一个超快速、设备端的多语言文本转语音（TTS）引擎，通过 ONNX 原生运行。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
