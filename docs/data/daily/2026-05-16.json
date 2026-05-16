@@ -1,0 +1,313 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T02:42:30.029097+00:00",
+  "sections_ordered": [
+    {
+      "key": "github_trending",
+      "payload_key": "github_trending",
+      "title": "GitHub Trending",
+      "icon": "⭐",
+      "items": [
+        {
+          "full_name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "stars_today": 1271,
+          "total_stars": 9147,
+          "language": "Rust",
+          "topics": [],
+          "summary": "**核心功能与关键特性：**\n\nOpenHuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+        },
+        {
+          "full_name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars_today": 1648,
+          "total_stars": 192916,
+          "language": "Shell",
+          "topics": [],
+          "summary": "Superpowers 是一个实用的、可行的代理技能框架和软件开发方法论。"
+        },
+        {
+          "full_name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "stars_today": 646,
+          "total_stars": 22512,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库提供了一套即用型的智能体技能，专为研究、科学、工程、分析、金融和写作等领域设计，旨在增强AI代理的能力。"
+        },
+        {
+          "full_name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "stars_today": 719,
+          "total_stars": 6093,
+          "language": "Swift",
+          "topics": [],
+          "summary": "Supertonic 是一个**闪电般快速、支持多语言的端侧文本转语音（TTS）库，它通过 ONNX 原生运行**。"
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "stars_today": 1859,
+          "total_stars": 57556,
+          "language": "Rust",
+          "topics": [],
+          "summary": "RuView 的核心功能是利用普通 Wi-Fi 信号实时生成空间智能、生命体征监测和存在检测，全程无需任何视频像素。"
+        },
+        {
+          "full_name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "stars_today": 212,
+          "total_stars": 17425,
+          "language": "Go",
+          "topics": [],
+          "summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及任意数据的代理程序。"
+        },
+        {
+          "full_name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "stars_today": 689,
+          "total_stars": 135212,
+          "language": "Python",
+          "topics": [],
+          "summary": "该仓库是Anthropic公开的“Agent Skills”项目，核心功能是提供用于构建和增强AI智能体（Agent）所需的一系列可复用技能和工具。"
+        },
+        {
+          "full_name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "stars_today": 68,
+          "total_stars": 20913,
+          "language": "TypeScript",
+          "topics": [],
+          "summary": "该仓库提供了一个**MCP（可能是指某种集成或连接器）**，用于**Claude 桌面/代码、Windsurf 或 Cursor**，以帮助用户**构建 n8n 工作流**。"
+        },
+        {
+          "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+          "stars_today": 308,
+          "total_stars": 1177,
+          "language": "Python",
+          "topics": [],
+          "summary": "该存储库提供了一套用于构建GPU加速视觉代理和AI驱动视频分析应用的参考架构套件。"
+        }
+      ],
+      "meta": {
+        "count": 9
+      }
+    },
+    {
+      "key": "arxiv",
+      "payload_key": "papers",
+      "title": "arXiv Papers",
+      "icon": "📄",
+      "items": [],
+      "meta": {
+        "papers_fetched": 100,
+        "papers_after_keyword_filter": 0,
+        "papers_after_llm_filter": 0,
+        "count": 0
+      }
+    },
+    {
+      "key": "supervisor_updates",
+      "payload_key": "supervisor_updates",
+      "title": "Supervisor Updates",
+      "icon": "👨‍🏫",
+      "items": [],
+      "meta": {
+        "count": 0
+      }
+    }
+  ],
+  "meta": {
+    "papers_fetched": 100,
+    "papers_after_keyword_filter": 0,
+    "papers_after_llm_filter": 0,
+    "llm_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "scoring_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "summarization_model": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "duration_seconds": 13
+  },
+  "quote_of_day": [],
+  "hitokoto": [],
+  "arxiv": [],
+  "papers": [],
+  "hacker_news": [
+    {
+      "id": 48153379,
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 858,
+      "created_at": "2026-05-15T20:26:47Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48153379",
+      "summary": "一位专家认为，当前存在一些公司正处于对人工智能的过度狂热或不切实际的迷恋（AI psychosis）状态。"
+    },
+    {
+      "id": 48148391,
+      "title": "We are retiring our bug bounty program",
+      "url": "https://turso.tech/blog/the-wonders-of-ai",
+      "score": 347,
+      "created_at": "2026-05-15T13:33:15Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48148391",
+      "summary": "Turso 宣布停止其漏洞赏金计划，转而采用更主动的内部安全策略。"
+    },
+    {
+      "id": 48148337,
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "score": 321,
+      "created_at": "2026-05-15T13:28:55Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48148337",
+      "summary": "亚马逊员工为满足提高人工智能使用率的压力，正编造不必要的任务来完成指标。"
+    },
+    {
+      "id": 48146369,
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "score": 278,
+      "created_at": "2026-05-15T09:19:24Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48146369",
+      "summary": "该项目提供了一个基准测试排名，帮助用户根据其本地硬件性能找到最适合的本地大型语言模型。"
+    },
+    {
+      "id": 48144380,
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "score": 259,
+      "created_at": "2026-05-15T03:56:14Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48144380",
+      "summary": "特里斯坦-达库尼亚岛进行了一次大胆的空投行动，具体细节已公布。"
+    },
+    {
+      "id": 48148084,
+      "title": "Trade Dollars with other startups. Book it as revenue",
+      "url": "https://www.revswap.ai/",
+      "score": 175,
+      "created_at": "2026-05-15T13:05:29Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48148084",
+      "summary": "初创公司正在通过 RevSwap 平台以“贸易美元”的形式进行交易，并将其记为收入。"
+    },
+    {
+      "id": 48147945,
+      "title": "“Too dangerous to release” or just too expensive?",
+      "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
+      "score": 146,
+      "created_at": "2026-05-15T12:49:27Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48147945",
+      "summary": "Anthropic 隐藏其最强大的 AI 模型，其真实原因可能是成本过高而非安全风险。"
+    },
+    {
+      "id": 48146424,
+      "title": "UK sovereign LLM inference",
+      "url": "https://relax.ai/docs",
+      "score": 104,
+      "created_at": "2026-05-15T09:27:26Z",
+      "comments_url": "https://news.ycombinator.com/item?id=48146424",
+      "summary": "英国正在开发一个主权大型语言模型（LLM）推理平台，以确保数据主权和安全。"
+    }
+  ],
+  "github_trending": [
+    {
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 1271,
+      "total_stars": 9147,
+      "language": "Rust",
+      "topics": [],
+      "summary": "**核心功能与关键特性：**\n\nOpenHuman 是一个私密、简洁且极其强大的个人超级人工智能助手。"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars_today": 1648,
+      "total_stars": 192916,
+      "language": "Shell",
+      "topics": [],
+      "summary": "Superpowers 是一个实用的、可行的代理技能框架和软件开发方法论。"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars_today": 646,
+      "total_stars": 22512,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库提供了一套即用型的智能体技能，专为研究、科学、工程、分析、金融和写作等领域设计，旨在增强AI代理的能力。"
+    },
+    {
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars_today": 719,
+      "total_stars": 6093,
+      "language": "Swift",
+      "topics": [],
+      "summary": "Supertonic 是一个**闪电般快速、支持多语言的端侧文本转语音（TTS）库，它通过 ONNX 原生运行**。"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 1859,
+      "total_stars": 57556,
+      "language": "Rust",
+      "topics": [],
+      "summary": "RuView 的核心功能是利用普通 Wi-Fi 信号实时生成空间智能、生命体征监测和存在检测，全程无需任何视频像素。"
+    },
+    {
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars_today": 212,
+      "total_stars": 17425,
+      "language": "Go",
+      "topics": [],
+      "summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及任意数据的代理程序。"
+    },
+    {
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars_today": 689,
+      "total_stars": 135212,
+      "language": "Python",
+      "topics": [],
+      "summary": "该仓库是Anthropic公开的“Agent Skills”项目，核心功能是提供用于构建和增强AI智能体（Agent）所需的一系列可复用技能和工具。"
+    },
+    {
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars_today": 68,
+      "total_stars": 20913,
+      "language": "TypeScript",
+      "topics": [],
+      "summary": "该仓库提供了一个**MCP（可能是指某种集成或连接器）**，用于**Claude 桌面/代码、Windsurf 或 Cursor**，以帮助用户**构建 n8n 工作流**。"
+    },
+    {
+      "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "stars_today": 308,
+      "total_stars": 1177,
+      "language": "Python",
+      "topics": [],
+      "summary": "该存储库提供了一套用于构建GPU加速视觉代理和AI驱动视频分析应用的参考架构套件。"
+    }
+  ],
+  "postdoc_jobs": [],
+  "jobs": [],
+  "supervisor_updates": [],
+  "weather": []
+}
